@@ -1,0 +1,182 @@
+/* zentrale style definitionen für jca.html und programm.html */
+
+body {
+    font-size: 12pt;
+    font-family: Candara, sans-serif;
+    color: rgb(23, 54, 93); /* #17365d */
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    font-weight: normal;
+}
+.menucontainer {
+    margin: 10px;
+}
+a {
+    color: rgb(44, 102, 176); /* #2c66b0*/
+    text-decoration: underline;
+}
+a [class^="icon-"], a [class*=" icon-"] {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(23, 54, 93);
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    vertical-align: top;
+    border-bottom: 1px black solid;
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+h1, h6 {
+    text-align: center;
+    text-decoration: none;
+    clear: both;
+}
+h2 {
+    text-align: left;
+    margin-bottom: 5pt;
+    margin-top: 15pt;
+    padding-top: 10pt;
+    text-decoration: none;
+    clear: both;
+}
+h3 {
+    text-align: left;
+    margin-bottom: 3pt;
+    margin-top: 10pt;
+    padding-top: 10pt;
+    text-decoration: none;
+    clear: both;
+}
+h6 {
+    font-size: 16pt;
+    text-decoration: none;
+}
+p {
+    /* padding: 0pt; */
+    margin: 0pt;
+    margin-bottom: 10pt;
+    text-align: justify;
+}
+.highlight {
+    background-color: rgb(88, 204, 255);
+}
+small {
+    font-size: 10pt;
+}
+.nowrap {
+    white-space: nowrap;
+}
+.warning {
+    color:red;
+    text-align:center;
+}
+td.info, th.info {
+    border-bottom: 1px black solid;
+    vertical-align:middle;
+}
+
+/* Tablet
+------------------------- */
+@media (max-width: 767px) {
+  /* Remove any padding from the body */
+  body {
+    padding-top: 0;
+  }
+  /* Sidenav */
+  .bs-docs-sidenav {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  #affixcontainer.affix, .bs-docs-sidenav.affix {
+    position: static;
+    width: auto;
+    top: 0;
+  }
+
+  .top {
+    text-align: left;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+  h3 {
+    font-size: 24px;
+  }
+}
+
+/* document layouts */
+/* ------------------------- */
+.einladung {
+    margin: 1em 0em;
+    padding: .5em;
+    background-color: #bfcdde;
+}
+.einladung .termin {
+    margin: 0em 0em;
+    display: block;
+}
+.einladung .titel {
+    background-color: #dde4ed;
+    display: block;
+}
+.einladung .titel .art {
+    font-style: italic;
+}
+.einladung .ort {
+    display: block;
+}
+.einladung .anhang {
+    display: block;
+}
+
+a.pdf:before {
+    content: "";
+    /* TODO find possibility for alternative text */
+    background-image: url("../images/pdf-16.gif");
+    /* http://upload.wikimedia.org/wikipedia/commons/2/23/Icons-mini-file_acrobat.gif */
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 2px;
+}
+a.link:before {
+    font-size: .9em;
+    content: "\f08e";
+    margin-right: 2px;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    display: inline-block;
+}
+a.top:before {
+    content: "\f0d8";
+    margin-right: 2px;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+a.back:before {
+    content: "\f0d9";
+    margin-right: 4px;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+}

@@ -1,0 +1,10 @@
+# Site settings
+title: Jüdisch-Christliche Arbeitsgemeinschaft
+email: info@jcha.de
+description: "Die Jüdisch-Christliche Arbeitsgemeinschaft"
+baseurl: ""
+url: "http://jcha.de"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
