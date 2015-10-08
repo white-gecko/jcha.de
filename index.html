@@ -1,0 +1,203 @@
+---
+layout: default
+---
+
+<h2 id="einladung">Einladung</h2>
+
+{% for einladung in site.posts %}
+  {% if einladung.date >= site.time || einladung.date_end >= site.time %}
+<div class="einladung">
+    <span class="termin">
+        {% if einladung.date_start %}
+            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
+            {{ einladung.date_ende | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
+        {% else %}
+            {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
+        {% endif %}
+    </span>
+    <span class="titel">
+        <strong>{{ einladung.title }}</strong>
+        {{ einladung.content }}
+    </span>
+    <span class="ort">{{ einladung.place }}</span>
+    {% if einladung.attachment %}
+        <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Einladung</a></span>
+    {% endif %}
+</div>
+{% endif %}
+{% endfor %}
+
+<!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
+
+
+<h3 id="material">Material</h3>
+<p>Ökumenische Bibelwoche 2014/2015<br /><strong>Anmerkungen zum Galaterbrief</strong><br />
+<a class="pdf" href="http://jcha.de/beitraege/GalaterBiWo2014f.pdf">Material</a> (0,1 MB)
+</p>
+
+<h3 id="programm">Programm</h3>
+<p>
+    <strong>Programm</strong> der Jüdisch-Christliche Arbeitsgemeinschaft für das zweite Halbjahr 2015<br />
+    <a class="pdf" href="einladungen/2015-09-Halbjahresprogramm.pdf">Programm</a> (0,1 MB)
+    <em>aktuallisiert am 2. September 2015</em>
+</p>
+<p>
+    <strong>Gebetszeiten</strong> der Israelitische Religionsgemeinde zu Leipzig für das Jahr 2015<br />
+    <a class="pdf" href="einladungen/2015_gebetszeiten_irg_leipzig.pdf">Gebetszeiten</a> (0,2 MB)<br /><br />
+</p>
+
+<p>
+    Einladungen zu vergangenen Veranstaltungen finden Sie im <a href="archiv">Archiv</a>
+</p>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
+
+<h2 id="angebot">St&auml;ndiges Angebot der J&uuml;disch-Christlichen Arbeitsgemeinschaft</h2>
+<p>
+    <em>Veranstaltungen mit den folgenden oder anderen Themen k&ouml;nnen mit Herrn Dr. Arndt
+        (0341-9735414, tarndt@jcha.de) und weiteren Referenten bei der J&uuml;disch-Christlichen Arbeitsgemeinschaft
+        (Burgstra&szlig;e 1&ndash;5, 04109 Leipzig, Tel.: 0341-212 009 435, info@jcha.de) vereinbart werden.</em>
+</p>
+
+<h3>Vortr&auml;ge zu j&uuml;dischen Traditionen</h3>
+<h4>Einteilung der Zeit: der j&uuml;dische Kalender</h4>
+<p>
+    Wann beginnt ein Jahr? Was bedeuten Jahreszahlen? Wie kommen die Feste zu ihren Terminen? Wie kommt man von einem Fest zum n&auml;chsten? -
+    Mit Hilfe solcher Fragen l&auml;sst sich ein &Uuml;berblick &uuml;ber das J&uuml;dische Festjahr gewinnen; es ist eine Weise,
+    an Stationen der Geschichte zu erinnern, die heute noch Bedeutung haben.
+</p>
+
+<h4>Einteilung der Zeit: Der Sabbat</h4>
+<p>
+    Arbeiten verboten! - Wie macht man das? Was tut man da? Der Sabbat ist ein Geschenk, ein Zeichen, ein Gew&uuml;rz, eine Prinzessin.
+    Schlie&szlig;lich wird von ihm gesagt: &bdquo;Mehr als die Juden ihn gehalten haben, hat er die Juden erhalten.&ldquo;
+</p>
+
+<h4>Einteilung der Zeit: einzelne Feste</h4>
+<p>
+Pesach &ndash; das Fest der Befreiung (bei den Christen ist daraus Ostern geworden)<br />
+Schawu'ot &ndash; die Bundesordnung (bei den Christen hei&szlig;t es Pfingsten)<br />
+Die Zeit unserer Freude: Sukkot (H&uuml;ttenfest) und Simchat Tora (Tora-Freude)<br/>
+Die Hohen Feiertage zu Jahresbeginn: Rosch Ha-Schana bis Jom Kippur<br/>
+Purim: Das Buch Ester als Festlegende.
+</p>
+
+<h4>J&uuml;dische Liturgie</h4>
+<p>
+Funktion und Einrichtung der Synagoge - Die Gebete: Texte und Gebr&auml;uche
+</p>
+
+<h4>Beispiele j&uuml;discher Bibelauslegung</h4>
+<p>
+Woher hatte Noah Licht in der Arche? Wie hat Abraham zum Glauben gefunden? Warum stotterte Mose? (Einzelheiten nach Vereinbarung)
+</p>
+
+<h4>Zur j&uuml;dischen Lebensgestaltung</h4>
+<p>
+Leben nach der Tora - Was bedeuten die 613 Gebote der Tora? Judentum: eine Religion des Lernens - Was ist der Talmud: Eine Einf&uuml;hrung
+</p>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
+
+<h2 id="gespraech">Gespr&auml;chsbeitr&auml;ge/Werkstattberichte</h2>
+<ul>
+    <li>
+        2013-04-11 Holocaust und Shoah, „Das Unsagbare sagen“, Dr. Christoph Münz
+        <a class="link" href="http://www.compass-infodienst.de/ Christoph_Muenz___Wohin_die_Sprache_nicht_reicht_____-_Holocaust_und_Shoa.6581.0 .html">HTML</a>
+        <a class="pdf" href="beitraege/ChristophMuenz2013-04-11.pdf">PDF</a>
+    </li>
+    <li>
+        2012-11-10 Pogromgedenken Predigt Rabbiner Dr. Walter Rothschild
+        <a class="pdf" href="beitraege/WalterRothschild2012-11-11.pdf">PDF</a>
+    </li>
+    <li>
+        2012-05-03 Verrat an der Erde &ndash; Kain und Abel, Chaim Noll
+        <a class="pdf" href="beitraege/2012-05-03KAIN_und_ABEL.pdf">PDF</a>
+    </li>
+    <li>
+        2012-02-16 Ist das Judentum die Mutter oder die Schwester des Christentums? Pater Klaus Gr&auml;ve, Leipzig
+        <a class="pdf" href="beitraege/KlausGraeve2012-02-16.pdf">PDF</a>
+    </li>
+    <li>
+        2011-09-11 Pogromgedenken Predigt Pfarrer Wolfgang Raupach-Rudnick
+        <a class="pdf" href="beitraege/2011-11-09-Raupach-Rudnick-Pogromgedenken-Leipzig.pdf">PDF</a>
+    </li>
+    <li>
+        2010-11-09 Pogromgedenken Predigt Professor Alfred Bodenheimer
+        <a class="pdf" href="beitraege/Alfred_Bodenheimer_Novemberpogrom_Leipzig_2010.pdf">PDF</a>
+    </li>
+    <li>
+        2010-07-11 Der Wochenspruch zum 6. Sonntag nach Trinitatis ''Jesaja 43,1'' - und wie er verstümmelt wurde
+        <a class="link" href="http://www.reformiert-info.de/5768-0-84-9.html">HTML</a>
+        <a class="pdf" href="http://reformiert-info.de/daten/File/Upload/doc-5768-1.pdf">PDF</a>
+    </li>
+    <li>
+        2009-03-08 Predigt am Sonntag Reminiszere zu Mk 12,1-12
+        <a class="link" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/Mk_12_Reminiszere.html"> HTML</a>
+        <a class="pdf" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/Mk%2012%20Reminiszere.pdf" >PDF</a>
+    </li>
+    <li>
+        2008-11-09 Pogromgedenken Predigt Professor Eliyahu Schleifer
+        <a class="pdf" href="beitraege/Eliyahu_Schleifer_Pogromgedenken_2008.pdf">PDF</a>
+    </li>
+    <li>
+        2008/2009 Bibelwoche: Die Ich-bin-Worte Jesu im Johannesevangelium
+        <a class="link" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/BiWo_Ichbin_worte.html"> HTML</a>
+        <a class="pdf" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/BiWo_Ichbin_worte.pdf">PDF </a>
+    </li>
+</ul>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
+
+<h2 id="kontakt">Kontakt</h2>
+
+<p>
+Haus der Kirche<br />
+Burgstraße 1–5<br />
+04109 Leipzig</p>
+
+<p>
+B&uuml;rozeiten: Dienstag 10 bis 12 Uhr und Donnerstag 14 bis 16 Uhr</p>
+
+<p>
+Telefon: (0341) 2120 09 435<br />
+Telefax: (0341) 2120 09 489<br />
+E-Mail: info@jcha.de</p>
+
+<strong>Spendenkonto</strong>
+<p>
+IBAN: DE 56 8605 5592 1190 0085 87, BIC: WELADE8LXXX (Sparkasse Leipzig) </p>
+<p>
+Vorsitzender: <a class="link" href="https://at.theol.uni-leipzig.de/institut/mitarbeiter/dr-timotheus-arndt">Timotheus Arndt</a><br />
+Mitarbeiterinnen und Mitarbeiter: Inessa Beznosova, Ida Charnis, Sebastian Krause</p>
+<p>
+Auf Anfrage beraten und gestalten wir mit Ihnen<br />
+Themen zur Begegnung von Juden und Christen. </p>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
+
+<h2 id="zusammen">Wir arbeiten zusammen mit</h3>
+<p>
+der <a class="link" href="http://www.christlichjuedischezusammenarbeit-dresden.de/">Gesellschaft f&uuml;r christlich-j&uuml;dische Zusammenarbeit</a>
+in <strong>Dresden</strong> und<br />
+dem <a class="link" href="http://ev-forum.kirche-chemnitz.de/">Evangelischen Forum</a> und
+der <a class="link" href="http://ev-forum.kirche-chemnitz.de/alt/html/dig.html">Deutsch-Israelischen Gesellschaft</a> in <strong>Chemnitz</strong></p>
+
+<p>
+In <strong>Leipzig</strong> befindet sich die <a class="link" href="http://www.uni-leipzig.de/~judaica/">Forschungsstelle Judentum</a> und<br />
+das <a class="link" href="http://www.dubnow.de/">Simon-Dubnow-Institut f&uuml;r j&uuml;dische Geschichte und Kultur e.V.</a> an der Universit&auml;t Leipzig.
+</p>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
+
+<h2 id="verbunden">Wir sind verbunden mit</h3>
+<p>
+der Konferenz Landeskirchlicher Arbeitskreise Christen und Juden (<a class="link" href="http://www.klak.org/">KLAK</a>)<br />
+den <a class="link" href="http://www.deutscher-koordinierungsrat.de/">Gesellschaften</a> f&uuml;r Christlich-J&uuml;dische Zusammenarbeit<br />
+dem Evangelisch-Lutherischen <a class="link" href="http://www.bcj.de/">Zentralverein</a> f&uuml;r Begegnung von Christen und Juden<br />
+der Evangelisch-Lutherischen <a class="link" href="http://www.landeskirche-sachsen.de/">Landeskirche</a> Sachsens<br />
+<!--<a href="http://www.ekd.de/judentum/">Evangelische Kirche in Deutschland (EKD)</a><br />-->
+dem <a class="link" href="http://www.jcrelations.net/">Internationalen Rat der Christen und Juden</a><br />
+</p>
+
+<span><a class="top" href="#top">Zum Anfang der Seite</a></span>
