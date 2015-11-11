@@ -64,7 +64,8 @@ p {
     text-align: justify;
 }
 .highlight {
-    background-color: rgb(88, 204, 255);
+    color: rgb(210, 74, 89); /* d24a59 */
+    font-weight: bold;
 }
 small {
     font-size: 10pt;
