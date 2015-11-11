@@ -117,7 +117,7 @@ td.info, th.info {
 /* document layouts */
 /* ------------------------- */
 .einladung {
-    margin: 1em 0em;
+    margin: 1em 0;
     padding: .5em;
     background-color: #bfcdde;
 }
@@ -128,10 +128,28 @@ td.info, th.info {
 .einladung .titel {
     background-color: #dde4ed;
     display: block;
+    padding: 5pt;
 }
 .einladung .titel .art {
     font-style: italic;
 }
+.einladung .titel h3 {
+    font-size: 1.1em;
+    margin-top: 0pt;
+    padding-top: 0pt;
+}
+.einladung .titel .subtitle {
+    font-style: italic;
+    margin-top: 10pt;
+    padding-top: 10pt;
+}
+.einladung .inhalt {
+    background-color: #dde4ed;
+    display: block;
+    padding: 0 5pt;
+}
+
+
 .einladung .ort {
     display: block;
 }
