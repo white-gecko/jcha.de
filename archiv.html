@@ -20,8 +20,7 @@ title: Archiv
             {{ einladung.date_start | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }} bis
             {{ einladung.date_ende | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
         {% else %}
-            am
-            {{ einladung.date | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
+            am {{ einladung.date | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
         {% endif %}
     {% if einladung.attachment %}
         <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Einladung</a></span>
