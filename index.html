@@ -5,14 +5,14 @@ layout: default
 <h2 id="einladung">Einladung</h2>
 
 {% for einladung in site.posts %}
-  {% if einladung.date >= site.time || einladung.date_end >= site.time %}
+  {% if einladung.date_ >= site.time or einladung.date_end >= site.time %}
 <div class="einladung">
     <span class="termin">
         {% if einladung.date_start %}
             {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
             {{ einladung.date_ende | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
         {% else %}
-            {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
+            {{ einladung.date_ | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
         {% endif %}
     </span>
     <span class="titel">
@@ -36,19 +36,21 @@ layout: default
 
 
 <h3 id="material">Material</h3>
-<p>Ökumenische Bibelwoche 2014/2015<br /><strong>Anmerkungen zum Galaterbrief</strong><br />
-<a class="pdf" href="/beitraege/GalaterBiWo2014f.pdf">Material</a> (0,1 MB)
+<strong>Informationen zur synagogalen Leseordnung</strong><br>
+    <a class="pdf" href="/beitraege/synagogale_schriftlesungen.pdf">Synagogale Schriftlesungen</a> (0,2 MB)
+</p>
+
+<p><strong>Erklärungen zu den Beziehungen zum Judentum:</strong> Anfang Dezember 2015 veröffentlichten orthodoxe Rabbiner <a class="link" href="http://www.jcrelations.net/Den_Willen_unseres_Vaters_im_Himmel_tun__Hin_zu_einer_Partnerschaft_zwischen_Jud.5227.0.html?L=2"> HTML</a> <a class="pdf" href="beitraege/Den_Willen_unseres_Vaters_im_Himmel_tun.pdf">PDF</a> und die Vatikanische Kommission für die religiösen Beziehungen zum Judentum <a class="link" href="http://www.jcrelations.net/DENN_UNWIDERRUFLICH_SIND_GNADE_UND_BERUFUNG__DIE_GOTT_GEW__HRT___R__m_11_29.5230.0.html?L=2"> HTML</a> <a class="pdf" href="beitraege/Denn_unwiderruflich_sind_Gnade_und_Berufung_die_Gott_gewaehrt.pdf">PDF</a> je eine Erklärung in sieben Punkten.
 </p>
 
 <h3 id="programm">Programm</h3>
 <p>
-    <strong>Programm</strong> der Jüdisch-Christliche Arbeitsgemeinschaft für das zweite Halbjahr 2015<br />
-    <a class="pdf" href="/einladungen/2015-10_2-Halbjahresprogramm.pdf">Programm</a> (0,1 MB)
-    <em>aktuallisiert am 9. Oktober 2015</em>
+    <strong>Programm</strong> der Jüdisch-Christliche Arbeitsgemeinschaft für das zweite Halbjahr 2016<br />
+    <a class="pdf" href="/einladungen/2016-08-17_-_02_-_Halbjahresprogramm.pdf">Programm</a> (0,1 MB)
 </p>
 <p>
-    <strong>Gebetszeiten</strong> der Israelitische Religionsgemeinde zu Leipzig für das Jahr 2015<br />
-    <a class="pdf" href="/einladungen/2015_gebetszeiten_irg_leipzig.pdf">Gebetszeiten</a> (0,2 MB)<br /><br />
+    <strong>Gebetszeiten</strong> der Israelitischen Religionsgemeinde zu Leipzig für das Jahr 2017<br />
+    <a class="pdf" href="/einladungen/2017_gebetszeiten_irg_leipzig.pdf">Gebetszeiten 2017</a> (0,2 MB)<br /><br />
 </p>
 
 <p>
@@ -107,6 +109,11 @@ Leben nach der Tora - Was bedeuten die 613 Gebote der Tora? Judentum: eine Relig
 <h2 id="gespraech">Gespr&auml;chsbeitr&auml;ge/Werkstattberichte</h2>
 <ul>
     <li>
+        2014/2015 Ökumenische Bibelwoche: Anmerkungen zum Galaterbrief
+        <a class="link" href="https://www.bibelwerk.de/Bibel.12790.html/%C3%96kumenische+Bibelwoche.108826.html">HTML</a>
+        <a class="pdf" href="beitraege/GalaterBiWo2014f.pdf">PDF</a>
+    </li>
+    <li>
         2013-04-11 Holocaust und Shoah, „Das Unsagbare sagen“, Dr. Christoph Münz
         <a class="link" href="http://www.compass-infodienst.de/ Christoph_Muenz___Wohin_die_Sprache_nicht_reicht_____-_Holocaust_und_Shoa.6581.0 .html">HTML</a>
         <a class="pdf" href="beitraege/ChristophMuenz2013-04-11.pdf">PDF</a>
@@ -146,7 +153,7 @@ Leben nach der Tora - Was bedeuten die 613 Gebote der Tora? Judentum: eine Relig
         <a class="pdf" href="beitraege/Eliyahu_Schleifer_Pogromgedenken_2008.pdf">PDF</a>
     </li>
     <li>
-        2008/2009 Bibelwoche: Die Ich-bin-Worte Jesu im Johannesevangelium
+        2008/2009 Ökumenische Bibelwoche: Die Ich-bin-Worte Jesu im Johannesevangelium
         <a class="link" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/BiWo_Ichbin_worte.html"> HTML</a>
         <a class="pdf" href="http://www.uni-leipzig.de/%7Eat/arndt/Werkstatt/BiWo_Ichbin_worte.pdf">PDF </a>
     </li>
