@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Wir sind Juden aus Breslau"
-date_:   2017-04-09 13:00:00+02:00
+date:   2017-04-09 13:00:00+02:00
 place:  "Passage Kinos, Leipzig"
 categories: einladung
 attachment: "einladungen/2017-04-09-WirSindJudenAusBreslau.pdf"

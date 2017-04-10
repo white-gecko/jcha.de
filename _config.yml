@@ -8,6 +8,7 @@ url: "http://jcha.de"
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
 
 # Exclude files from being copied to _site
 exclude: [put.sh]
