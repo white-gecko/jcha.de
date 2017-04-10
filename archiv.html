@@ -13,7 +13,7 @@ title: Archiv
 <ul>
 
 {% for einladung in site.posts %}
-{% if einladung.date < site.time and einladung.date_end < site.time  %}
+{% if einladung.date < site.time or einladung.date_end < site.time  %}
 <li> Einladung <strong>{{ einladung.title }}</strong>
         {% if einladung.date_start %}
             von
