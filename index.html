@@ -4,7 +4,7 @@ layout: default
 
 <h2 id="einladung">Einladung</h2>
 
-{% for einladung in site.posts %}
+{% for einladung in site.posts reversed %}
   {% if einladung.date >= site.time or einladung.date_end >= site.time %}
 <div class="einladung">
     <span class="termin">
