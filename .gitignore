@@ -1,2 +1,4 @@
 _site/
 put.sh
+.DS_Store
+*.swp
