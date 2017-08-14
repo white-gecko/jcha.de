@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Jüdische Woche in Leipzig"
-date:   2017-04-09 13:00:00+02:00date_start: 2015-09-03
+date:   2017-04-09 13:00:00+02:00
 date_start: 2017-06-25
 date_ende:  2017-06-18
 categories: einladung
