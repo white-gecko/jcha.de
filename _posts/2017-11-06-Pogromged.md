@@ -1,9 +1,10 @@
 ---
 layout: einladung
 title:  "Gedenken an die Novemberpogrome von 1938"
+date: 2017-11-06 17:00:00+02:00
 date_start: 2017-11-06 17:00:00+02:00
 date_ende: 2017-11-09 17:30:00+02:00
-place:  "Nikolaikirche" "Partheufer"
+place:  "Nikolaikirche und Partheufer"
 categories: einladung
 attachment: "einladungen/2017-11-06bis9Pogromged.pdf"
 tag: archive
