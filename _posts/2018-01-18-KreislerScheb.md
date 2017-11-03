@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Heute abend: Lola Blau – Ein Abend um Georg Kreisler"
-date:   2018-01-18 19:00:00+02:00
+date:   2018-01-18 19:00:00+01:00
 place:  "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2018-01-18KreislerScheb.pdf"

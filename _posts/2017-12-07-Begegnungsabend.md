@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Begegnungsabend: Lichter"
-date:   2017-12-07 18:00:00+02:00
+date:   2017-12-07 18:00:00+01:00
 place:  "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2017-12-07Begegnungsabend.pdf"
