@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "ReMembering – Jüdische Lebenserinnerungen: Ein Netzwerk zur Stadtgeschichte Leipzigs"
-date:   2018-02-01 19:00:00+02:00
+date:   2018-02-01 19:00:00+01:00
 place:  "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2018-02-01ReMembering.pdf"
