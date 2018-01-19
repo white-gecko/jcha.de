@@ -1,9 +1,10 @@
 ---
 layout: einladung
 title:  "Gedenken an die Novemberpogrome von 1938"
-date:   2017-11-06 17:00:00+02:00
-date:   2017-11-09 17:30:00+02:00
-place:  "Nikolaikirche" "Partheufer"
+date: 2017-11-06 17:00:00+02:00
+date_start: 2017-11-06 17:00:00+01:00
+date_ende: 2017-11-09 17:30:00+01:00
+place:  "Nikolaikirche und Partheufer"
 categories: einladung
 attachment: "einladungen/2017-11-06bis9Pogromged.pdf"
 tag: archive
@@ -14,10 +15,10 @@ tag: archive
 In diesem Jahr liegt das montägliche Friedensgebet schon am 6. November,
 vier Tage vor dem Gedenken am Donnerstag, dem 9. November
 
-\textit{Denn du weißt um des Fremden Herz \dots }
+*Denn du weißt um des Fremden Herz …*
 (3. Mose 19,34)
 Wer oder was ist uns fremd und wie nehmen wir Fremde und Fremdes wahr? Wen oder was machen wir fremd?
-\textit{Denn du bist selbst fremd gewesen \dots }
+*Denn du bist selbst fremd gewesen …*
 (ebenda)
 Wie begreifen wir das?
 
