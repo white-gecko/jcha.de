@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Friedensgebet"
-date:   2018-01-22 17:00:00+02:00
+date:   2018-01-22 17:00:00+01:00
 place:  "Nikolaikirche zu Leipzig, Nikolaikirchhof 3, 04109 Leipzig"
 categories: einladung
 tag: archive
