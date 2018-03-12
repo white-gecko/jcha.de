@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  Klesmer und mehr
-date:   2018-03-12 17:00:00+01:00
+date:   2018-03-12 18:00:00+01:00
 place:  "Alte Nikolaischule, Nikolaikirchhof 2"
 categories: einladung
 attachment: "einladungen/2018-03-12-Jacobowitz.pdf"
