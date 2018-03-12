@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  „Ich lobe dich des Tages siebenmal.“ Ps 119, 164 – Biblische Geschichten vom Beten
-date:   2018-04-27 18:00:00+01:00
+date:   2018-04-27 18:00:00+02:00
 place:  "Evangelische Akademie Meißen"
 categories: einladung
 attachment: "einladungen/2018-04-27-BibelLesen.pdf"
