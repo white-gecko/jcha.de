@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Staat und Religionen in Israel"
-date:   2018-04-19 18:00:00+01:00
+date:   2018-04-19 17:00:00+02:00
 place:  "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2018-04-19-StaatRelig.pdf"
@@ -14,4 +14,3 @@ Vor genau 70 Jahren – nach jüdischem Kalender – wurde der Staat Israel gegr
 
 
 *Gespräch*
-
