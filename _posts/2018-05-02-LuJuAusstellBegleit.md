@@ -1,6 +1,6 @@
 ---
 layout: einladung
-title:  Martin Luther und die Juden: „Ertragen können wir sie nicht.“ Da müssen wir wi(e)dersprechen!
+title:  "Martin Luther und die Juden: „Ertragen können wir sie nicht.“ Da müssen wir wi(e)dersprechen!"
 date:   2018-04-27 17:00:00+02:00
 place:  "Michaeliskirche Leipzig"
 categories: einladung
@@ -27,4 +27,3 @@ oder weist sie auch auf Grundprobleme der reformatorischen Theologie hin?
 
 *Ausstellung vom 2. Mai bis 30. Juni 2018
 in der Michaeliskirche*
-
