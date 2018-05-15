@@ -1,7 +1,9 @@
 ---
 layout: einladung
 title:  "Martin Luther und die Juden: „Ertragen können wir sie nicht.“ Da müssen wir wi(e)dersprechen!"
-date:   2018-04-27 17:00:00+02:00
+date:   2018-05-02 17:00:00+01:00
+date_start: 2018-05-02 17:00:00+01:00
+date_ende: 2018-06-30 18:00:00+01:00
 place:  "Michaeliskirche Leipzig"
 categories: einladung
 attachment: "einladungen/2018-05-02-LuJuAusstellBegleit.pdf"
