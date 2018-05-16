@@ -5,7 +5,9 @@ layout: default
 <h2 id="einladung">Einladung</h2>
 
 {% for einladung in site.posts reversed %}
-  {% if einladung.date >= site.time or einladung.date_end >= site.time %}
+{% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
+{% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
+  {% if einladung.date >= site.time or ende >= nowunix %}
 <div class="einladung">
     <span class="termin">
         {% if einladung.date_start %}
