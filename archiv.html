@@ -23,7 +23,7 @@ title: Archiv
             am {{ einladung.date | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
         {% endif %}
     {% if einladung.attachment %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Einladung</a></span>
+        <span class="anhang"><a class="pdf" href="{{ einladung.attachment | prepend: "/" }}">Einladung</a></span>
     {% endif %}
 </li>
 {% endif %}
