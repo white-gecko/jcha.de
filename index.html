@@ -28,7 +28,21 @@ layout: default
     </span>
     <span class="ort">{{ einladung.place }}</span>
     {% if einladung.attachment %}
+        {% if einladung.attachment.first %}
+        {% for attachment in einladung.attachment %}
+        {% if attachment.title %}
+        <span class="anhang"><a class="pdf" href="{{ attachment.file }}">{{ attachment.title }}</a></span>
+        {% else %}
+        <span class="anhang"><a class="pdf" href="{{ attachment }}">Einladung</a></span>
+        {% endif %}
+        {% endfor %}
+        {% else %}
+        {% if attachment.title %}
+        <span class="anhang"><a class="pdf" href="{{ einladung.attachment.file }}">{{ einladung.attachment.title }}</a></span>
+        {% else %}
         <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Einladung</a></span>
+        {% endif %}
+        {% endif %}
     {% endif %}
 </div>
 {% endif %}

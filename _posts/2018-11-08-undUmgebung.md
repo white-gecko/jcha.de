@@ -4,9 +4,10 @@ title:  "Gedenken an die Novemberpogrome von 1938"
 date_start: 2018-11-08 11:00:00+01:00
 date_ende: 2018-11-13 22:00:00+01:00
 categories: einladung
-attachment: "einladungen/2018-11-08-DemoEinladung.pdf"
-attachment: "einladungen/2018-11-08-Demoroute.jpg"
-attachment: "einladungen/2018-11-13-Radbil.pdf"
+attachment:
+  - {file: "einladungen/2018-11-08-DemoEinladung.pdf", title: "Einladung zur Gedenkdemonstration"}
+  - {file: "einladungen/2018-11-08-Demoroute.jpg", title: "Route der Gedenkdemonstration"}
+  - {file: "einladungen/2018-11-13-Radbil.pdf", title: "Einladung: Rabbiner Avraham Radbil: Wenn Populismus populär wird"}
 ---
 * Donnerstag, 8. November, ab 11 Uhr Studientag im Ariowitschhaus *Es war einmal*
 * 18.30 Uhr Start am Ariowitschhaus
