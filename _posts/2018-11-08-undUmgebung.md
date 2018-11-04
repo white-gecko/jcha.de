@@ -9,6 +9,9 @@ attachment:
   - {file: "einladungen/2018-11-08-Demoroute.jpg", title: "Route der Gedenkdemonstration"}
   - {file: "einladungen/2018-11-13-Radbil.pdf", title: "Einladung: Rabbiner Avraham Radbil: Wenn Populismus populär wird"}
 ---
+* Dienstag 6. und Mittwoch 7. November, jeweils 10 Uhr im Ariowitschhaus:
+Zeitzeugengespräch mit Schlomo Samson.
+[Weitere Einzelheiten finden sie auf der Seite des Schulmuseums](https://schulmuseum.leipzig.de/detailansicht-news/news/zeitzeugengespraech-mit-holocaust-ueberlebenden-schlomo-samson/)
 * Donnerstag, 8. November, ab 11 Uhr Studientag im Ariowitschhaus *Es war einmal*
 * 18.30 Uhr Start am Ariowitschhaus
 Gedenkdemonstration
