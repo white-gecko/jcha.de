@@ -11,7 +11,7 @@ attachment:
 ---
 * Dienstag 6. und Mittwoch 7. November, jeweils 10 Uhr im Ariowitschhaus:
 Zeitzeugengespräch mit Schlomo Samson.
-[Weitere Einzelheiten finden sie auf der Seite des Schulmuseums](https://schulmuseum.leipzig.de/detailansicht-news/news/zeitzeugengespraech-mit-holocaust-ueberlebenden-schlomo-samson/)
+[Weitere Einzelheiten finden sie auf der Seite des Schulmuseums.](https://schulmuseum.leipzig.de/detailansicht-news/news/zeitzeugengespraech-mit-holocaust-ueberlebenden-schlomo-samson/)
 * Donnerstag, 8. November, ab 11 Uhr Studientag im Ariowitschhaus *Es war einmal*
 * 18.30 Uhr Start am Ariowitschhaus
 Gedenkdemonstration
@@ -24,6 +24,6 @@ mit Stationen an verschiedenen Gedenkorten in der Leipziger Innenstadt, endend a
 * Sonntag, 11. November, 18 Uhr Thomaskirche, Gottesdienst zum Gedenken an die Reichspogromnacht mit
 Prof. Dr. Rainer Kampling, FU Berlin,
 und dem Leipziger Synagogalchor
-* Sonntag, 11. November, 18 Uhr Jugendkirche (in der Friedenskirche in Leipzig-Gohlis)
+* Sonntag, 11. November, 18 Uhr [Jugendkirche](http://pax-leipzig.de/) (in der Friedenskirche in Leipzig-Gohlis)
 * Montag, 12. November, 17 Uhr Nikolaikirche, Friedensgebet, Jüdisch-Christlichen Arbeitsgemeinschaft, gestaltet von Pfarrerin Angela Langner-Stephan mit Konfirmandinnen und Konfirmanden
 * Dienstag, 13. November, 19 Uhr Ariowitschhaus, Rabbiner Avraham Radbil: Wenn Populismus populär wird
