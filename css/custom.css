@@ -178,7 +178,6 @@ a.link:before {
     font-weight: normal;
     font-style: normal;
     text-decoration: none;
-    display: inline-block;
 }
 a.top:before {
     content: "\f0d8";
