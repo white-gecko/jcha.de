@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Gedenken an die Novemberpogrome von 1938"
-date_start: 2018-11-08 11:00:00+01:00
+date_start: 2018-11-06 10:00:00+01:00
 date_ende: 2018-11-13 22:00:00+01:00
 categories: einladung
 attachment:
