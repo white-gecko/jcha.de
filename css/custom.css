@@ -78,6 +78,9 @@ small {
     color:red;
     text-align:center;
 }
+span.canceled {
+    color:red;
+}
 td.info, th.info {
     border-bottom: 1px black solid;
     vertical-align:middle;
@@ -121,6 +124,10 @@ td.info, th.info {
     margin: 1em 0;
     padding: .5em;
     background-color: #bfcdde;
+}
+div.canceled {
+    background-color: #bfc4ca;
+    opacity: .5
 }
 .einladung .termin {
     margin: 0em 0em;

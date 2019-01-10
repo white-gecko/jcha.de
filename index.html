@@ -8,7 +8,8 @@ layout: default
 {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
 {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
   {% if einladung.date >= site.time or ende >= nowunix %}
-<div class="einladung">
+  {% assign tags = einladung.tag | split: " " %}
+<div class="einladung {% if tags contains "canceled" %} canceled{% endif %}">
     <span class="termin">
         {% if einladung.date_start %}
             {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
@@ -18,7 +19,7 @@ layout: default
         {% endif %}
     </span>
     <span class="titel">
-        <h3>{{ einladung.title }}</h3>
+        <h3>{% if tags contains "canceled" %}<span class="canceled">Entfällt!:</span> {% endif %}{{ einladung.title }}</h3>
         {% if einladung.subtitle %}
         <span class="subtitle">{{ einladung.subtitle }}</span>
         {% endif %}
