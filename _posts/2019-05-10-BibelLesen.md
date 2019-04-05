@@ -4,7 +4,7 @@ title:  NOAH – und die Verantwortung (Genesis 6,5 – 9,29)
 date:   2019-05-10 18:00:00+02:00
 date_start: 2019-05-10 18:00:00+02:00
 date_ende: 2019-05-12 13:00:00+02:00
-place:  "Evangelische Akademie Meißen"
+place:  "Evangelische Akademie Meißen – ausgebucht, weitere Anmeldungen kommen auf die Warteliste"
 categories: einladung
 attachment: "einladungen/2019-05-10-BibelLesen.pdf"
 tag: archive
