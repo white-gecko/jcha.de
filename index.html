@@ -28,6 +28,7 @@ layout: default
     {{ einladung.content }}
     </span>
     <span class="ort">{{ einladung.place }}</span>
+    {% if tags contains "bookedout" %}<span class="canceled">ausgebucht, weitere Anmeldungen kommen auf die Warteliste</span> {% endif %}
     {% if einladung.attachment %}
         {% if einladung.attachment.first %}
         {% for attachment in einladung.attachment %}
