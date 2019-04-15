@@ -25,5 +25,6 @@ Wir laden zum gemeinsamen Lesen und Zuhören ein, zum Wiederentdecken der Ideen
 Zuhören ist einfach, Mitlesen auch!
 
 Jede/r Vorlesende entscheidet sich für ein Werk und eine Textstelle ...
-
+Hier finden Sie die Bücherliste:
+attachment: "einladungen/2019-05-10Buecherliste.pdf"
 *Anmeldeschluss ist der 1. Mai 2019*
