@@ -6,7 +6,9 @@ date_start: 2019-05-10 14:00:00+02:00
 date_ende: 2019-05-10 20:00:00+02:00
 place:      "Petersstraße/Ecke Schillerstraße"
 categories: einladung
-attachment: "einladungen/2019-05-10-ErinnBuecher.pdf"
+attachment:
+  - {file: "einladungen/2019-05-10-ErinnBuecher.pdf", title: "Einladung"}
+  - {file: "einladungen/2019-05-10Buecherliste.pdf", title: "Bücherliste"}
 tag: archive
 ---
 
@@ -24,7 +26,6 @@ Wir laden zum gemeinsamen Lesen und Zuhören ein, zum Wiederentdecken der Ideen
 
 Zuhören ist einfach, Mitlesen auch!
 
-Jede/r Vorlesende entscheidet sich für ein Werk und eine Textstelle ...
-Hier finden Sie die Bücherliste:
-attachment: "einladungen/2019-05-10Buecherliste.pdf"
+Jede/r Vorlesende entscheidet sich für ein Werk und eine Textstelle ... aus der angehängten Bücherliste.
+
 *Anmeldeschluss ist der 1. Mai 2019*
