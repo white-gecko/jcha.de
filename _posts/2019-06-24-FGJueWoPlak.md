@@ -12,7 +12,7 @@ tag: archive
 
 Von Generation zu Generation hängen wir zusammen, geben wir Erinnerungen weiter,
 Erinnerung an Schmerzen und Freude.
-%Verletzungen sollen heilen können, und gute Erinnerungen unsere Zuversicht stärken.
+Verletzungen sollen heilen können, und gute Erinnerungen unsere Zuversicht stärken.
 Nach all dem Leid, das sie erlebt haben, kommen Menschen nach Leipzig, um Kindern und Enkeln ihre frühere Heimat zu zeigen, aus der sie verjagd wurden. Kinder und Enkel besuchen die Orte ihrer Eltern und Großeltern.
 In der Bibel (Jesaja Kapitel 34, Vers 17 und Joël, Kapitel 4, Vers 20)
 steht die Hoffnung, daß Menschen dauerhaft friedlich in Judäa und Jerusalem wohnen können.
@@ -25,3 +25,5 @@ Auch so werden Zusammenhänge wieder und neu hergestellt.
 Wir können einander kennen lernen, mit den Gästen aus dem Chor ins Gespräch kommen, Gehörtes oder Anderes weiter zu tragen.
 
 *im Rahmen der Jüdischen Woche und des Besuchs ehemaliger Leipziger und ihrer Familien*
+
+[Link zum Programm der Jüdischen Woche](https://we.tl/t-BYO2x6bzBR)
