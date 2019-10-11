@@ -10,6 +10,11 @@ body {
     hyphens: auto;
     font-weight: normal;
 }
+.nav-list {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 0;
+}
 .menucontainer {
     margin: 10px;
 }
