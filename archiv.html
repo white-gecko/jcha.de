@@ -7,9 +7,27 @@ title: Archiv
 <span><a class="back" href="../">Zurück zur Hauptseite</a></span>
 <h2 id="presse">Pressemitteilung</h2>
 <ul>
-    <li>31. August 2012: <a href="/pressemitteilungen/2012-08-31-Pressemitteilung.pdf">Zum Angriff auf Rabbiner Alter und seine Familie</a></li>
-
-    <li>27. August 2019: <a href="/pressemitteilungen/2019-08-27-Religionsfreiheit.pdf">Zur Beschränkung der Religionsfreiheit im „Regierungsprogramm“ der sächsischen AfD</a>
+  {% for einladung in site.posts %}
+    {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
+    {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
+    {% assign tags = einladung.tag | split: " " %}
+    {% if tags contains "pm" %}
+      {% if tags contains "archive" %}
+        <li>
+            {% if einladung.date_start %}
+              {{ einladung.date_start | localize: "%d.%m.%Y" }}:
+            {% else %}
+              {{ einladung.date | localize: "%d.%m.%Y" }}:
+            {% endif %}
+            {% if einladung.attachment %}
+              <span class="anhang"><a class="pdf" href="{{ einladung.attachment | prepend: "/" }}">{{ einladung.title }}</a></span>
+            {% endif %}
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  <li>27.08.2019: <a class="pdf" href="/pressemitteilungen/2019-08-27-Religionsfreiheit.pdf">Zur Beschränkung der Religionsfreiheit im „Regierungsprogramm“ der sächsischen AfD</a>
+  <li>31.08.2012: <a class="pdf" href="/pressemitteilungen/2012-08-31-Pressemitteilung.pdf">Zum Angriff auf Rabbiner Alter und seine Familie</a></li>
 </ul>
 <h2>Einladung</h2>
 <ul>
@@ -17,16 +35,14 @@ title: Archiv
 {% for einladung in site.posts %}
 {% if einladung.date < site.time or einladung.date_end < site.time  %}
 <li> Einladung <strong>{{ einladung.title }}</strong>
-        {% if einladung.date_start %}
-            von
-            {{ einladung.date_start | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }} bis
-            {{ einladung.date_ende | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
-        {% else %}
-            am {{ einladung.date | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
-        {% endif %}
-    {% if einladung.attachment %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment | prepend: "/" }}">Einladung</a></span>
+    {% if einladung.date_start %}
+      von
+      {{ einladung.date_start | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }} bis
+      {{ einladung.date_ende | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
+    {% else %}
+      am {{ einladung.date | localize: "%A, dem %d.%m.%Y %k.%M Uhr" }}
     {% endif %}
+    {% include attachment.html %}
 </li>
 {% endif %}
 {% endfor %}
