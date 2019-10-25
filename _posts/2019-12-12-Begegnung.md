@@ -9,7 +9,7 @@ attachment: "einladungen/2019-12-12-Begegnungsabend.pdf"
 
 Begegnungsabend
 
-**Es war einmal …**
+**Märchenmotive**
 
 Der Winter ist eine Zeit zum Erzählen. Völker haben dafür Märchen. Inzwischen wissen wir, daß Märchenmotive durch die Literaturen wandern. Welche Besonderheiten finden wir, welche Gemeinsamkeiten? Wir lassen uns von ein paar Texten und Gesängen anregen, und wollen an diesem Abend vor allem miteinander ins Gespräch kommen.
 
