@@ -4,61 +4,18 @@ layout: default
 
 {% assign title = false %}
 {% for einladung in site.posts reversed %}
-{% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
-{% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
+  {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
+  {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
   {% assign tags = einladung.tag | split: " " %}
   {% if tags contains "pm" %}
-  {% unless tags contains "archive" %}
-  {% unless title %}
-  {% assign title = true %}
-<h2 id="pressemitteilung">Pressemitteilung</h2>
-{% endunless %}
-<div class="einladung">
-    <span class="termin">
-        {% if einladung.date_start %}
-            {% assign end = einladung.date_start | date: "%D" %}
-            {% assign start = einladung.date_ende | date: "%D" %}
-            {% if start == end %}
-            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M" }} bis
-            {{ einladung.date_ende | localize: "%k.%M Uhr" }}
-            {% else %}
-            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
-            {{ einladung.date_ende | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
-            {% endif %}
-        {% else %}
-            {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
-        {% endif %}
-    </span>
-    <span class="titel">
-        <h3>{{ einladung.title }}</h3>
-        {% if einladung.subtitle %}
-        <span class="subtitle">{{ einladung.subtitle }}</span>
-        {% endif %}
-    </span>
-    <span class="inhalt">
-    {{ einladung.content }}
-    </span>
-    <span class="ort">{{ einladung.place }}</span>
-    {% if einladung.attachment %}
-        {% if einladung.attachment.first %}
-        {% for attachment in einladung.attachment %}
-        {% if attachment.title %}
-        <span class="anhang"><a class="pdf" href="{{ attachment.file }}">{{ attachment.title }}</a></span>
-        {% else %}
-        <span class="anhang"><a class="pdf" href="{{ attachment }}">Mitteilung</a></span>
-        {% endif %}
-        {% endfor %}
-        {% else %}
-        {% if attachment.title %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment.file }}">{{ einladung.attachment.title }}</a></span>
-        {% else %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Mitteilung</a></span>
-        {% endif %}
-        {% endif %}
-    {% endif %}
-</div>
-{% endunless %}
-{% endif %}
+    {% unless tags contains "archive" %}
+      {% unless title %}
+        {% assign title = true %}
+        <h2 id="pressemitteilung">Aktuelle Pressemitteilung</h2>
+      {% endunless %}
+      {% include einladung.html %}
+    {% endunless %}
+  {% endif %}
 {% endfor %}
 
 <h2 id="einladung">Einladung</h2>
@@ -67,55 +24,11 @@ layout: default
 {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
 {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
   {% if einladung.date >= site.time or ende >= nowunix %}
-  {% assign tags = einladung.tag | split: " " %}
-  {% unless tags contains "pm" %}
-<div class="einladung {% if tags contains "canceled" %} canceled{% endif %}">
-    <span class="termin">
-        {% if einladung.date_start %}
-            {% assign end = einladung.date_start | date: "%D" %}
-            {% assign start = einladung.date_ende | date: "%D" %}
-            {% if start == end %}
-            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M" }} bis
-            {{ einladung.date_ende | localize: "%k.%M Uhr" }}
-            {% else %}
-            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
-            {{ einladung.date_ende | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
-            {% endif %}
-        {% else %}
-            {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
-        {% endif %}
-    </span>
-    <span class="titel">
-        <h3>{% if tags contains "canceled" %}<span class="canceled">Entfällt!:</span> {% endif %}{{ einladung.title }}</h3>
-        {% if einladung.subtitle %}
-        <span class="subtitle">{{ einladung.subtitle }}</span>
-        {% endif %}
-    </span>
-    <span class="inhalt">
-    {{ einladung.content }}
-    </span>
-    <span class="ort">{{ einladung.place }}</span>
-    {% if tags contains "bookedout" %}<span class="canceled">ausgebucht, weitere Anmeldungen kommen auf die Warteliste</span> {% endif %}
-    {% if einladung.attachment %}
-        {% if einladung.attachment.first %}
-        {% for attachment in einladung.attachment %}
-        {% if attachment.title %}
-        <span class="anhang"><a class="pdf" href="{{ attachment.file }}">{{ attachment.title }}</a></span>
-        {% else %}
-        <span class="anhang"><a class="pdf" href="{{ attachment }}">Einladung</a></span>
-        {% endif %}
-        {% endfor %}
-        {% else %}
-        {% if attachment.title %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment.file }}">{{ einladung.attachment.title }}</a></span>
-        {% else %}
-        <span class="anhang"><a class="pdf" href="{{ einladung.attachment }}">Einladung</a></span>
-        {% endif %}
-        {% endif %}
-    {% endif %}
-</div>
-{% endunless %}
-{% endif %}
+    {% assign tags = einladung.tag | split: " " %}
+    {% unless tags contains "pm" %}
+      {% include einladung.html %}
+    {% endunless %}
+  {% endif %}
 {% endfor %}
 
 <!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
@@ -134,6 +47,11 @@ layout: default
 <span><a class="top" href="#top">Zum Anfang der Seite</a></span>
 
 <h2 id="beitraege">Beitr&auml;ge</h2>
+
+<p><strong>Pressemitteilungen</strong><br>
+  Bisherige Pressemitteilungen finden Sie im <a href="archiv">Archiv</a>
+</p>
+
 <p><strong>Reihe: Basiswissen</strong><br>
     <a class="pdf" href="/einladungen/2019-08-28-Basiswissen.pdf">Alle Termine</a>
     <br>
