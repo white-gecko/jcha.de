@@ -1,0 +1,29 @@
+<div class="einladung {% if tags contains "canceled" %} canceled{% endif %}">
+    <span class="termin">
+        {% if einladung.date_start %}
+            {% assign end = einladung.date_start | date: "%D" %}
+            {% assign start = einladung.date_ende | date: "%D" %}
+            {% if start == end %}
+            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M" }} bis
+            {{ einladung.date_ende | localize: "%k.%M Uhr" }}
+            {% else %}
+            {{ einladung.date_start | localize: "%A, %d.%m.%Y %k.%M Uhr" }} bis
+            {{ einladung.date_ende | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
+            {% endif %}
+        {% else %}
+            {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
+        {% endif %}
+    </span>
+    <span class="titel">
+        <h3>{% if tags contains "canceled" %}<span class="canceled">Entfällt!:</span> {% endif %}{{ einladung.title }}</h3>
+        {% if einladung.subtitle %}
+        <span class="subtitle">{{ einladung.subtitle }}</span>
+        {% endif %}
+    </span>
+    <span class="inhalt">
+    {{ einladung.content }}
+    </span>
+    <span class="ort">{{ einladung.place }}</span>
+    {% if tags contains "bookedout" %}<span class="canceled">ausgebucht, weitere Anmeldungen kommen auf die Warteliste</span> {% endif %}
+    {% include attachment.html %}
+</div>

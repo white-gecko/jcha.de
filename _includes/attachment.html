@@ -1,0 +1,17 @@
+{% if einladung.attachment %}
+    {% if einladung.attachment.first %}
+    {% for attachment in einladung.attachment %}
+    {% if attachment.title %}
+    <span class="anhang"><a class="pdf" href="{{ attachment.file | prepend: "/" }}">{{ attachment.title }}</a></span>
+    {% else %}
+    <span class="anhang"><a class="pdf" href="{{ attachment | prepend: "/" }}">{% if tags contains "pm" %}Mitteilung{% else %}Einladung{% endif %}</a></span>
+    {% endif %}
+    {% endfor %}
+    {% else %}
+    {% if attachment.title %}
+    <span class="anhang"><a class="pdf" href="{{ einladung.attachment.file | prepend: "/" }}">{{ einladung.attachment.title }}</a></span>
+    {% else %}
+    <span class="anhang"><a class="pdf" href="{{ einladung.attachment | prepend: "/" }}">{% if tags contains "pm" %}Mitteilung{% else %}Einladung{% endif %}</a></span>
+    {% endif %}
+    {% endif %}
+{% endif %}
