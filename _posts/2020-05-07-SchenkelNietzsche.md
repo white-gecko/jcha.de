@@ -6,7 +6,7 @@ date:       2020-05-07 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2020-05-07-SchenkelNietzsche.pdf"
-tag: archive canceled
+tag: archive
 ---
 
 Vortrag und Gespräch
