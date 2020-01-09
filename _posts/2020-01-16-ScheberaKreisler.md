@@ -6,7 +6,7 @@ date:       2020-01-16 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2020-01-16-ScheberaKreisler.pdf"
-tag: archive canceled
+tag: archive
 ---
 
 Vortrag mit authentischen Tondokumenten
