@@ -7,10 +7,8 @@ categories: einladung
 tag: archive
 ---
 
-**Friedensgebet**
-
-Am Sonntag, dem 10. März wird die zentrale Eröffnung der Woche der Brüderlichkeit in Dresden begangen. Das Motto lautet:
-„Tu deinen Mund auf für die Anderen“
+Am Sonntag, dem 8. März wird die zentrale Eröffnung der Woche der Brüderlichkeit in Dresden begangen. Das Motto lautet:
+„Tu deinen Mund auf für die Anderen.“
 
 Am Abend nach dem Friedensgebet beginnt die Jüdische Gemeinde das Purim-Fest zur Erinnerung an die Rettung der persischen Juden, wie sie das biblische Buch *Ester* erzählt.
 
