@@ -5,7 +5,6 @@ layout: default
 {% assign title = false %}
 {% for einladung in site.posts reversed %}
   {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
-  {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
   {% assign tags = einladung.tag | split: " " %}
   {% if tags contains "pm" %}
     {% unless tags contains "archive" %}
