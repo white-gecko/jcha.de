@@ -2,7 +2,7 @@
 layout:     einladung
 title:      "Juden in Mittweida"
 subtitle:   "Eine Spurensuche unter besonderer Berücksichtigung ihrer Beziehung zu Leipzig 1870–1990"
-date:       2020-04-23 19:00:00+01:00
+date:       2020-04-23 19:00:00+00:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2020-04-23-NitscheMittweida.pdf"
