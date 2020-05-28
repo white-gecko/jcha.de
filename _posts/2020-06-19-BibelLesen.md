@@ -6,6 +6,7 @@ date_start: 2020-06-19 18:00:00+02:00
 date_ende: 2020-06-21 13:00:00+02:00
 place:  "Evangelische Akademie Meißen"
 categories: einladung
+tag: archive bookedout
 ---
 
 Manche Gestalten der Bibel werden entweder idealisiert oder besonders düster gesehen. Jakob ist so ein Beispiel. Einige wollen in dem Erzvater nur Gutes sehen. Andere behaupten, schon sein Name heiße Betrüger, und er wäre ein Betrüger gewesen.
