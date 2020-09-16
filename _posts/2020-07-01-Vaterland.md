@@ -9,10 +9,6 @@ attachment: "einladungen/2020-07-AusstellungJuedischesGohlis.pdf"
 tag: archive
 ---
 
-Hinweise
-
-**zur Geschichte j&uuml;dischen Lebens in Leipzig**
-
 In der Michaeliskirche wird bis Oktober die Ausstellung
     <br>
 „Ich hatte einst ein sch&ouml;nes Vaterland“
