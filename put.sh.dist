@@ -1,22 +1,23 @@
 #!/bin/sh
 
-pwd=$( zenity --password )
+#password=$( zenity --password )
+password="password"
 username="username"
 server="server"
 
 # For lftp read http://lftp.yar.ru/lftp-man.html
 
-jekyll build
+bundle exec jekyll build
 
 echo "Update webpage …"
 lftp -c "set ftp:list-options -a;
-open ftp://$username:$pwd@$server; 
+open ftp://$username:$password@$server; 
 lcd _site
 mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer -x einladungen/ --parallel=2 "
 
 echo "Update einladungen …"
 lftp -c "set ftp:list-options -a;
-open ftp://$username:$pwd@$server; 
+open ftp://$username:$password@$server; 
 lcd einladungen
 cd einladungen
 mirror --reverse --use-cache --verbose --only-missing --parallel=2 "
