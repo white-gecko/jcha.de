@@ -2,7 +2,7 @@
 layout:     einladung
 title:      "Geschichte einer Ambivalenz:"
 subtitle:   "Nietzsche und das Judentum"
-date:       2020-10-22 19:00:00+01:00
+date:       2020-10-22 20:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2020-10-22-SchenkelNietzsche.pdf"
