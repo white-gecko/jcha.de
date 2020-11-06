@@ -3,7 +3,7 @@ layout:     einladung
 title:      "Gratulation"
 date:       2020-09-15 18:00:00+02:00
 categories: einladung
-tag: pm
+tag: pm archive
 ---
 
 Der *Zentralrat der Juden in Deutschland*
