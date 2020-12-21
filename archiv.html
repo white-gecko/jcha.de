@@ -21,6 +21,8 @@ title: Archiv
             {% endif %}
             {% if einladung.attachment %}
               <span class="anhang"><a class="pdf" href="{{ einladung.attachment | relative_url }}">{{ einladung.title }}</a></span>
+            {% else %}
+              <a href="{{ einladung | relative_url }}">{{ einladung.title }}</a>
             {% endif %}
         </li>
       {% endif %}
