@@ -8,9 +8,9 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/bootstrap.css' | relativize_url }}">
-    <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/font-awesome.css' | relativize_url }}">
-    <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/custom.css' | relativize_url }}">
+    <link rel="stylesheet" type="text/css" media="all" href="{% relative_link /css/bootstrap.css %}">
+    <link rel="stylesheet" type="text/css" media="all" href="{% relative_link /css/font-awesome.css %}">
+    <link rel="stylesheet" type="text/css" media="all" href="{% relative_link /css/custom.css %}">
 
     <link rel="icon" href="favicon.png" type="image/png" />
     <link rel="icon" href="favicon.ico" type="image/ico" />
