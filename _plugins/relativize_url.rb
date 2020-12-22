@@ -15,7 +15,11 @@ module Jekyll
       return if input.nil?
       input = ensure_leading_slash(input)
       page_url = @context.registers[:page]["url"]
-      page_dir = Pathname(page_url).parent
+      if page_url.end_with?("/")
+        page_dir = Pathname(page_url)
+      else
+        page_dir = Pathname(page_url).parent
+      end
       Pathname(input).relative_path_from(page_dir).to_s
     end
   end
