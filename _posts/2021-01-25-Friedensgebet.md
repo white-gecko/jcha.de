@@ -11,7 +11,7 @@ Der 27. Januar ist der Internationale Gedenktag der Schoa,
 <BR>
 in Deutschland der Gedenktag der Opfer des Nationalsozialismus.
 
-**Im Friedensgebet**
+Im **Friedensgebet**
 
 am Montag zuvor weisen wir darauf hin:
 <BR>
