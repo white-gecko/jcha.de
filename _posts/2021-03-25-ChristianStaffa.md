@@ -17,7 +17,7 @@ Berlin
 Als Antisemitismusbeauftragter der EKD wird Dr. Christian Staffa diesen Fragen auf der Suche nach Identitäten zwischen jüdischen und christlichen Positionen nachgehen.
 
 Sie können dem Zoom-Meeting beitreten.
-Die Verbindung finden sie unter:
+Die Verbindung finden Sie unter:
 
 [https://zoom.us/j/94060160156?pwd=eThNaXZmRllrR2t2cUdxcUg2UmNMQT09](https://zoom.us/j/94060160156?pwd=eThNaXZmRllrR2t2cUdxcUg2UmNMQT09)
 Meeting-ID: 940 6016 0156
