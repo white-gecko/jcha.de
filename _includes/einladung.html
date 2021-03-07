@@ -1,4 +1,5 @@
 <div class="einladung {% if tags contains "canceled" %} canceled{% endif %}">
+    {% unless tags contains "nodate" %}
     <span class="termin">
         {% if einladung.date_start %}
             {% assign end = einladung.date_start | date: "%D" %}
@@ -14,6 +15,7 @@
             {{ einladung.date | localize: "%A, %d.%m.%Y %k.%M Uhr" }}
         {% endif %}
     </span>
+    {% endunless %}
     <span class="titel">
         <h3>{% if tags contains "canceled" %}<span class="canceled">Entfällt!:</span> {% endif %}{{ einladung.title }}</h3>
         {% if einladung.subtitle %}
