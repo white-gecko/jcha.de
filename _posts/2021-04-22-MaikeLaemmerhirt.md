@@ -12,9 +12,9 @@ tag: archive
 <br>
 Erfurt/Mannheim
 
-Das jüdische Leben im Mittelalter wird zwischen Gemeinde, Wirtschaft, sozialem Leben und Rechtsfragen, aber auch Verfolgungen und Vertreibungen beleuchtet.
+Beleuchtet wird das jüdische Leben im Mittelalter, mit Blick auf Verfolgung und Ausweisung, aber auch auf Wirtschaft, Rechtsfragen, Gemeinde und soziales Leben.
 
-Die Historikerin Dr. Maike Lämmerhirt wird dabei Leipzig in den regionalen Kontext einbinden, um Vernetzungen zwischen den jüdischen Siedlungen aufzuzeigen, aber auch die Besonderheiten im Fall Leipzigs herauszustellen.
+Die Historikerin Dr. Maike Lämmerhirt wird dabei Leipzig in den regionalen Kontext einbinden und Vernetzungen zwischen den jüdischen Siedlungen aufzeigen, aber auch die Besonderheiten im Fall Leipzigs herausstellen.
 
 Sie können dem Zoom-Meeting beitreten.
 Die Verbindung finden Sie unter Ariowitschhaus virtuell
