@@ -14,10 +14,3 @@ lftp -c "set ftp:list-options -a;
 open ftp://$username:$password@$server;
 lcd _site
 mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=2 "
-
-echo "Update einladungen …"
-lftp -c "set ftp:list-options -a;
-open ftp://$username:$password@$server;
-lcd einladungen
-cd einladungen
-mirror --reverse --use-cache --verbose --only-missing --parallel=2 "
