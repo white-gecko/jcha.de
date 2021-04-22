@@ -16,5 +16,10 @@ Beleuchtet wird das jüdische Leben im Mittelalter, mit Blick auf Verfolgung und
 
 Die Historikerin Dr. Maike Lämmerhirt wird dabei Leipzig in den regionalen Kontext einbinden und Vernetzungen zwischen den jüdischen Siedlungen aufzeigen, aber auch die Besonderheiten im Fall Leipzigs herausstellen.
 
-Sie können dem Zoom-Meeting beitreten.
-Die Verbindung finden Sie unter Ariowitschhaus virtuell
+Sie können dem
+<a class="link" href="https://zoom.us/j/91476965189?pwd=YmVHS0g1clVuS0FQU3A2a0pCV2dzZz09">Zoom-Meeting</a>
+beitreten.
+
+Meeting-ID: 914 7696 5189
+<br />
+Kenncode: 817854
