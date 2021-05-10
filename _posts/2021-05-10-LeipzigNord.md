@@ -1,8 +1,7 @@
 ---
 layout:     einladung
 title:      "Antisemitischer Vorfall im Leipziger Norden"
-date_start:       2021-05-10 14:00:00+02:00
-date_ende:       2021-05-27 18:54:00+02:00
+date:       2021-05-10 14:00:00+02:00
 categories: einladung
 attachment: "/pressemitteilungen/2021-05-10-PMWeltoffenesGohlis.pdf"
 tag: pm
