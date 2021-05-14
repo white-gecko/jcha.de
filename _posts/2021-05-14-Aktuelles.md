@@ -3,7 +3,6 @@ layout:     einladung
 title:      "Feste und Ereignisse"
 date:       2021-05-14 14:00:00+02:00
 categories: einladung
-attachment: "pressemitteilungen/2021-05-10-PMWeltoffenesGohlis.pdf"
 tag: pm nodate
 ---
 
@@ -25,9 +24,9 @@ Die Unterstützung einer Kriegspartei zum Vorwand zu nehmen, hier gegen Menschen
 Die Worte vom Sinai sprechen jeden Menschen einzeln an, der sie hören will:
 Die Stimme vom Sinai ruft uns auf, das Vorurteil zu pflegen, der Mensch vor mir, ist vor allem ein Mensch. Und erst wenn wir Wohlergehen und Frieden gewünscht haben, können wir auch darüber reden und sogar streiten, was uns und unsere Gemeinschaften bewegt.
 
-Zu dem Übergriff am 3. Mai in Leipzig-Gohlis lesen sie unten die Stellungnahme der *Initiative Weltoffenes Gohlis* die hier angefügte Veröffentlichung herausgegeben, der wir uns anschließen.
+Zu dem Übergriff am 3. Mai in Leipzig-Gohlis lesen sie in der Stellungnahme der [*Initiative Weltoffenes Gohlis*](pressemitteilungen/2021-05-10-PMWeltoffenesGohlis.pdf).
 
-Der Vorstand der Orthodoxen Rabbinerkonferenz Deutschland (ORD) verurteilt Angriffe auf Synagogen in Bonn und Münster <a class="link" href="https://www.juedische-allgemeine.de/religion/mit-null-toleranz-begegnen/">mit Datum vom 12. Mai</a>
+Der Vorstand der Orthodoxen Rabbinerkonferenz Deutschland (ORD) verurteilt Angriffe auf Synagogen in Bonn und Münster <a class="link" href="https://www.juedische-allgemeine.de/religion/mit-null-toleranz-begegnen/">mit Datum vom 12. Mai</a>.
 
 Der Deutsche Kooridinierungsrat der Gesellschaften für Christlich Jüdische Zusammenarbeit nimmt <a class="link" href="https://www.deutscher-koordinierungsrat.de/dkr-home-Stellungnahme-Trauer-um-Opfer-in-Nahost-2021/">am 13. Mai zu den Gewalttaten Stellung</a>.
 
