@@ -13,6 +13,6 @@ Leibniz-Institut für jüdische Geschichte und Kultur – Simon Dubnow
 
 Bürgerverein Waldstraßenviertel lädt zu dem Vortrag ein.
 
-Sie können dem 
-<a class="link" href="https://zoom.us/j/94608415394?pwd=Z0o0WFFHOGRxd0o5V1pIajB3TnRHQT09/">Zoom-Meeting</a>
+Sie können dem
+<a class="link" href="https://zoom.us/j/94608415394?pwd=Z0o0WFFHOGRxd0o5V1pIajB3TnRHQT09">Zoom-Meeting</a>
 beitreten.
