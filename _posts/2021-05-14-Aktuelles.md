@@ -30,4 +30,10 @@ Der Vorstand der Orthodoxen Rabbinerkonferenz Deutschland (ORD) verurteilt Angri
 
 Der Deutsche Kooridinierungsrat der Gesellschaften für Christlich Jüdische Zusammenarbeit nimmt <a class="link" href="https://www.deutscher-koordinierungsrat.de/dkr-home-Stellungnahme-Trauer-um-Opfer-in-Nahost-2021/">am 13. Mai zu den Gewalttaten Stellung</a>.
 
+Wir laden mit ein zur <a class="pdf" href="pressemitteilungen/2021-05-19-KundgebungSchalom.pdf">*Kundgebung: Schalom - Solidarität mit Jüdinnen und Juden in Leipzig*</a>
+am Freitag, 21. Mai 2021, um 18.00 Uhr
+vor dem Haupteingang des Neuen Rathaus, Martin-Luther-Ring.
+
+Mit <a class="pdf" href="pressemitteilungen/2021-05-19-EvLuthKirchenbezirkLeipzigAnschreiben.pdf">*dieser Stellungnahme*</a> lädt der Kirchenbezirk Leipzig außerdem zu dem <a class="pdf" href="pressemitteilungen/2021-05-19-GebetsvorschlagPfingsten.pdf">*hier vorgeschlagenen Gebet an den Pfingsttagen*</a> ein.
+
 *Wir wünschen uns gemeinsam unsere Feste mit Ihren Lehren zum Frieden feiern zu können.*
