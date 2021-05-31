@@ -1,6 +1,6 @@
 ---
 layout:     einladung
-title:      "#beziehungweise: jüdisch und christlich – näher als du denkst"
+title:      "Feierstunde"
 date:       2021-06-01 18:00:00+02:00
 place:      "zoom"
 categories: einladung
