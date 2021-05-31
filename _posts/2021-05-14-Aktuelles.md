@@ -36,4 +36,6 @@ vor dem Haupteingang des Neuen Rathaus, Martin-Luther-Ring.
 
 Mit <a class="pdf" href="pressemitteilungen/2021-05-19-EvLuthKirchenbezirkLeipzigAnschreiben.pdf">*dieser Stellungnahme*</a> lädt der Kirchenbezirk Leipzig außerdem zu dem <a class="pdf" href="pressemitteilungen/2021-05-19-GebetsvorschlagPfingsten.pdf">*hier vorgeschlagenen Gebet an den Pfingsttagen*</a> ein.
 
+Den Redebeitrag der stellvertretenden Superintendenten für den Kirchenbezirk und den Stadtökumenekreis finden Sie hier <a class="pdf" href="pressemitteilungen/2021-05-21-DorotheaArndtKundgebungSchalomSolidaritaet.pdf">*hier*</a>.
+
 *Wir wünschen uns gemeinsam unsere Feste mit Ihren Lehren zum Frieden feiern zu können.*
