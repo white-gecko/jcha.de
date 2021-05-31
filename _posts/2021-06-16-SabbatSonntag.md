@@ -5,7 +5,6 @@ date:       2021-06-16 18:00:00+02:00
 place:      "Ariowitsch-Haus auf zoom"
 categories: einladung
 attachment: "einladungen/2021-06-16-SabbatSonntag.pdf"
-tag: archive
 ---
 
 **Schabbat bzw. Sonntag**

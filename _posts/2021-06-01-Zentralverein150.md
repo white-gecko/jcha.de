@@ -5,7 +5,6 @@ date:       2021-06-01 18:00:00+02:00
 place:      "zoom"
 categories: einladung
 attachment: "einladungen/2021-06-01-Zentralverein150.pdf"
-tag: archive
 ---
 
 **150 Jahre Zentralverein**
