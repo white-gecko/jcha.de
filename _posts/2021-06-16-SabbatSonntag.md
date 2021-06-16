@@ -15,5 +15,10 @@ Wie begehen jüdische Gemeinde und christliche Gemeinde und die jeweils einzelne
 *Gesprächsimpulse:
 Rabbinerin Esther Jonas-Märtin und Pfarrerin Angela Langner-Stephan*
 
-Sie finden den Link auf
-<a class="link" href="https://ariowitschhaus.de">Ariowitschhaus</a>.
+Sie können dem
+<a class="link" href="https://zoom.us/j/98963839258?pwd=akp4L3YwcjZ1citLWFp4QzgwTDdWZz09">Zoom-Meeting</a>
+beitreten.
+
+Meeting-ID: 989 6383 9258
+<br />
+Kenncode: 712759
