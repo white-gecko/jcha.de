@@ -15,4 +15,4 @@ In der Veranstaltung führt der Leipziger *Rabbiner Zsolt Balla* in Inhalt und P
 
 *Im Moment rechnen wir damit, daß Menschen mit einem aktuellen negativen Test, Impfnachweis oder imunisiert nach einer Genesung ins Ariowitschhaus kommen können.*
 <br>
-*Darüber hinaus bieten wir die Möglichkeit, über zomm teilzunehmen.*
+*Darüber hinaus bieten wir die Möglichkeit, über zoom teilzunehmen.*
