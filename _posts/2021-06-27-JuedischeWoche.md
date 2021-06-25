@@ -3,7 +3,7 @@ layout: einladung
 title:  Jüdische Woche
 date:   2021-06-27 15:00:00+02:00
 date_start: 2021-06-27 15:00:00+02:00
-date_ende: 2021-07-08 15:00:00+02:00
+date_ende: 2021-07-08 22:00:00+02:00
 place:  "Leipzig"
 categories: einladung
 attachment: "einladungen/2021-06-27-JueWoProgramm.pdf"

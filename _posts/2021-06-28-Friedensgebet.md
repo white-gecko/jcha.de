@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Friedensgebet zur Jüdischen Woche"
-date:   2021-06-28 17:00:00+01:00
+date:   2021-06-28 17:00:00+02:00
 place:  "Nikolaikirche zu Leipzig, Nikolaikirchhof 3, 04109 Leipzig"
 categories: einladung
 attachment: "einladungen/2021-06-28-FGJueWoPlak.pdf"
