@@ -13,6 +13,6 @@ Am 9. Aw erinnern Jüdinnen und Juden an die Zerstörung des Jerusalemer Tempels
 <br>
 In der Veranstaltung führt der Leipziger *Rabbiner Zsolt Balla* in Inhalt und Praxis des 9. Aw ein. *Professor Dr. Alexander Deeg* stellt die ambivalente Geschichte des Israelsonntags in den evangelischen Kirchen vor und fragt nach seiner gegenwärtigen Bedeutung. Nach beiden Impulsen wird ausreichend Zeit sein, das Gehörte im Gespräch zu vertiefen.
 
-*Im Moment rechnen wir damit, daß Menschen mit einem aktuellen negativen Test, Impfnachweis oder imunisiert nach einer Genesung ins Ariowitschhaus kommen können.*
+*Im Moment rechnen wir damit, daß Menschen mit einem aktuellen negativen Test, Impfnachweis oder immunisiert nach einer Genesung ins Ariowitschhaus kommen können.*
 <br>
 *Darüber hinaus bieten wir die Möglichkeit, über zoom teilzunehmen.*
