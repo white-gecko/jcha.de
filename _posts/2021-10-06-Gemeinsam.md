@@ -12,7 +12,7 @@ Manche bekommen das häufig zu spüren, andere seltener.
 Wir stellen uns den davon Betroffenen an die Seite.
 Das ist das Mindeste, das wir tun können.*
 
-**Hier sollte das Bild hinein**
+![Gemeinsam für jüdisches Leben in Leipzig]({% relative_link /images/gemeinsam_juedisches_leben.jpeg %})
 
 In einer Initative im Ev-Luth. Kirchenbezirk Leipzig entstand im Frühsommer dieser Schriftzug.
 Er steht ausdrücklich allen Kirchgemeinden, Religionsgemeinschaften, Initiativen in unserer Stadt zur Verwendung offen, die dieses Anliegen teilen:
@@ -24,4 +24,3 @@ Manchen fällt es schwer, zu ertragen, daß andere eine eigene Kultur pflegen in
 
 Gemeinsam treten wir dafür ein, dass Leipzig eine bunte, lebenswerte Stadt ist, für Menschen mit ihrer jeweiligen Tradition, Religion und Herkunft.
 Unser gemeinsames Eintreten für jüdisches Leben in Leipzig verweist damit auch auf andere Aufgaben, die wir in unserer Gesellschaft beständig vor uns sehen.
-
