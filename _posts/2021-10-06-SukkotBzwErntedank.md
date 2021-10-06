@@ -17,5 +17,11 @@ die Vorsitzenden der Jüdischen Gemeinde Chemnitz, *Dr. Ruth Röcher*.
 Nach beiden Impulsen wird ausreichend Zeit sein, das Gehörte im Gespräch zu vertiefen.
 
 *Derzeit rechnen wir damit, daß Menschen mit einem aktuellen negativen Test, Impfnachweis oder immunisiert nach einer Genesung ins Ariowitschhaus kommen können.*
+
+Sie können dem Zoom-Meeting beitreten:
+
+[https://us06web.zoom.us/j/89148958423?pwd=RXlsL2pnU1FsMm1XTWJVelpIdXFwdz09](https://us06web.zoom.us/j/89148958423?pwd=RXlsL2pnU1FsMm1XTWJVelpIdXFwdz09)
+
+Meeting-ID: 891 4895 8423
 <br>
-*Darüber hinaus bieten wir die Möglichkeit, über zoom teilzunehmen.*
+Kenncode: 173694
