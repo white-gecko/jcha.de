@@ -6,12 +6,6 @@ categories: einladung
 tag: pm nodate
 ---
 
-*Die Diskriminierung gestern, am Di, d. 5. Oktober 2021, in einem Leipziger Hotel
-zeigt das Muster von verdeckter, difuser Diskriminierung bis zum offenen Angriff.
-Manche bekommen das häufig zu spüren, andere seltener.
-Wir stellen uns den davon Betroffenen an die Seite.
-Das ist das Mindeste, das wir tun können.*
-
 ![Gemeinsam für jüdisches Leben in Leipzig]({% relative_link /images/gemeinsam_juedisches_leben.jpeg %})
 
 In einer Initative im Ev-Luth. Kirchenbezirk Leipzig entstand im Frühsommer dieser Schriftzug.
