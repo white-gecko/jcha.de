@@ -5,8 +5,8 @@
     <description>Die Jüdisch-Christliche Arbeitsgemeinschaft</description>
     <link>http://jcha.de/</link>
     <atom:link href="http://jcha.de/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Nov 2021 08:22:57 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Nov 2021 08:22:57 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Nov 2021 17:32:42 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Nov 2021 17:32:42 +0100</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -53,14 +53,18 @@ Hannover&lt;/p&gt;
 &lt;br /&gt;
 Den Zoom-Link zur Veranstaltung finden Sie auf www.ariowitschhaus.de&lt;/p&gt;
 
+&lt;p&gt;Verschoben auf 2022!&lt;/p&gt;
+
             Ariowitsch-Haus, Hinrichsenstraße 14
         </description>
         <pubDate>Thu, 25 Nov 2021 19:00:00 +0100</pubDate>
-        <link>http://jcha.de/einladung/2021/11/25/Seltmann/</link>
-        <guid isPermaLink="true">http://jcha.de/einladung/2021/11/25/Seltmann/</guid>
+        <link>http://jcha.de/einladung/postponed/2021/11/25/Seltmann/</link>
+        <guid isPermaLink="true">http://jcha.de/einladung/postponed/2021/11/25/Seltmann/</guid>
         
         
         <category>einladung</category>
+        
+        <category>postponed</category>
         
       </item>
     
