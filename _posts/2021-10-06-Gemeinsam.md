@@ -3,7 +3,7 @@ layout:     einladung
 title:      "Gemeinsam für jüdisches Leben in Leipzig"
 date:       2021-10-06 16:20:00+02:00
 categories: einladung
-tag: pm nodate
+tag: pm archive nodate
 ---
 
 ![Gemeinsam für jüdisches Leben in Leipzig]({% relative_link /images/gemeinsam_juedisches_leben.jpeg %})
