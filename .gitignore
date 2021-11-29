@@ -5,3 +5,5 @@ put.sh
 Gemfile.lock
 Gemfile
 .jekyll-cache
+.bundle
+.vendor
