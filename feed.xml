@@ -5,8 +5,8 @@
     <description>Die Jüdisch-Christliche Arbeitsgemeinschaft</description>
     <link>http://jcha.de/</link>
     <atom:link href="http://jcha.de/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Mar 2022 12:23:19 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Mar 2022 12:23:19 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Mar 2022 12:29:47 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2022 12:29:47 +0100</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -29,9 +29,11 @@ Nach dem anfänglichen Zwiegespräch können Sie sich in das Gespräch einbringe
 
             Ariowitsch-Haus, Hinrichsenstraße 14
         </description>
-        <pubDate>Wed, 30 Mar 2022 19:00:00 +0200</pubDate>
+        <pubDate>Wed, 30 Mar 2022 20:00:00 +0200</pubDate>
         <link>http://jcha.de/einladung/2022/03/30/Namen/</link>
         <guid isPermaLink="true">http://jcha.de/einladung/2022/03/30/Namen/</guid>
+        
+        <category>archive</category>
         
         
         <category>einladung</category>
