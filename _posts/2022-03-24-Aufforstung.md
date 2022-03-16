@@ -6,7 +6,7 @@ date:       2022-03-24 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2022-03-24-GuagninAufforstung.pdf"
-tag: archive canceled
+tag: archive
 ---
 
 **Johannes Guagnin**, Hauptdelegierter des Jüdischen Nationalfonds – Keren Kayemeth leIsrael für Deutschland.
