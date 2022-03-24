@@ -18,3 +18,9 @@ Der Jüdische Nationalfonds , der seit 120 Jahren mit der Urbarmachung und Auffo
 In seinem Vortrag erläutert Guagnin, was die Landschaft in Israel geprägt und geformt hat und wie der Jüdische Nationalfonds in den 120 Jahren seines Bestehens zu einer der führenden Organisationen auf dem Bereich der Wüstenbekämpfung und der Anpassung an den Klimawandel wurde.
 
 *Die Veranstaltung wird auch via Zoom übertragen*
+
+[https://us06web.zoom.us/j/85412567901?pwd=YU9TWExuWldnY1RCNUR6cmFDSVRlUT09](https://us06web.zoom.us/j/85412567901?pwd=YU9TWExuWldnY1RCNUR6cmFDSVRlUT09)
+
+Meeting-ID: 854 1256 7901
+<br>
+Kenncode: 154053
