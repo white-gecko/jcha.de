@@ -1,13 +1,11 @@
 ---
 layout: einladung
 title:  "Tischa BeAv"
-date_start:   2022-08-07 19:00:00
-date_ende:   2022-08-21 00:00:00
+date_start:  2022-08-07 00:00:00+02:00
+date_ende:   2022-08-21 24:00:00+02:00
 categories: einladung
 tag: archive
 ---
-
-**Tisch’a B’Aw**
 
 Am 9. Aw trauert die jüdische Gemeinschaft um die Zerstörung des Jerusalemer Tempels. In unserem Kirchenkalender ist dieses Gedenken doppelt verankert: am 10. August, zugleich Gedenktag des Laurentius' und am 10. Sonntag nach Trinitatis, der heute meist als „Israelsonntag“, im Blick hat, was Juden und Christen verbindet.
 <br>
