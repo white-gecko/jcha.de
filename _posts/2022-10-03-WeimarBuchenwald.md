@@ -13,13 +13,16 @@ Wir besuchen die Gedenkstätte Buchenwald,
 essen gemeinsam Mittag
 und besichtigen die Stadt.
 <br>
-Treffpunkt 8 Uhr morgens Hauptbahnhof Leipzig Gleis 3
+**Treffpunkt** 8 Uhr morgens Hauptbahnhof Leipzig Gleis 3
 <br>
 Die Rückkunft ist bis kurz vor 8 Uhr abends vorgesehen.
 <br>
-Kosten 25 Euro, ermäßigt 15 Euro.
+**Kosten** 25 Euro, ermäßigt 15 Euro.
 Die Teilnahmezahl ist begrenzt.
-Wir bitten um Anmeldung bis Montag, d. 19. September
+<br>
+Wir bitten um **Anmeldung** bis Montag, d. 19. September
 an die unsere Arbeitsgemeinschaft
+<br>
 Telefon: (0341) 2120 09 435 oder
+<br>
 E-Mail: info@jcha.de

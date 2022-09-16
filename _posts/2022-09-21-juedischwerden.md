@@ -7,8 +7,6 @@ categories: einladung
 tag: archive
 ---
 
-**Professor Dr. Sebastian Henn**
-
 Wie wird mensch jüdisch?
 
 Viele kennen die Auskunft: Als Jude wird man geboren.
@@ -16,7 +14,7 @@ Manche wissen: Es kommt darauf an, dass die Mutter Jüdin ist.
 Kann ich aber auch aus eigenem Entschluss jüdisch werden?
 Wie kann das gehen?
 <br>
-Gespräch mit Professor Dr. Sebastian Henn und Dr. Timotheus Arndt
+Gespräch mit **Professor Dr. Sebastian Henn** und Dr. Timotheus Arndt
 
 *Die Veranstaltung wird auch via Zoom übertragen*
 <br>
