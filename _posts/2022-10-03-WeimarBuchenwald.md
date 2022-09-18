@@ -13,7 +13,7 @@ Wir besuchen die Gedenkstätte Buchenwald,
 essen gemeinsam Mittag
 und besichtigen die Stadt.
 <br>
-**Treffpunkt** 8 Uhr morgens Hauptbahnhof Leipzig Gleis 3
+**Treffpunkt** 8 Uhr morgens Hauptbahnhof Leipzig Gleis **8**
 <br>
 Die Rückkunft ist bis kurz vor 8 Uhr abends vorgesehen.
 <br>
