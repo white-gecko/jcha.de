@@ -4,10 +4,10 @@ title:  "Der Anfang des Jahres 5783"
 date_start:  2022-09-16 00:00:00+02:00
 date_ende:   2022-10-22 24:00:00+02:00
 categories: einladung
-tag: archive
+tag: archive nodate
 ---
 
-**Rosch Ha-Schana 5783** beginnt am Sonntagabend, dem 25. Oktober.
+**Rosch Ha-Schana 5783** beginnt am Sonntagabend, dem 25. September.
 Die beiden Neujahrstage sind Montag, der 26. und Dienstag, der 27.
 Damit beginnen zehn Umkehrtage bis zum Versöhnungstag, **Jom Kippur**, vom Dienstagabend, d. 4. bis Mittwochabend, d. 5. Oktober.
 <br>
