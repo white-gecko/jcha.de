@@ -8,7 +8,7 @@ categories: einladung
 tag: archive
 ---
 
-**Julia Salomon**
+**Julia Salomo**
 
 „Hashomer Hatzair Deutschland“ ist ein internationaler, progressiver jüdischer Jugendverband, der vor 10 Jahren in Berlin wiedergegründet wurde. Seit 1931 war Hashomer Hatzair in verschiedenen Städten im Deutschen Reich aktiv, bis der Verband 1939 von den Nationalsozialisten zwangsaufgelöst wurde. In einem generationenübergreifenden Forschungsprojekt begaben sich die neue Generation gemeinsam mit freiwilligen Helfer:innen und Unterstützer:innen auf die Suche nach den unerzählten Geschichten und vergessenen Schicksalen der Mitglieder in den 1930er Jahren. In diesem Vortrag sollen daher Hashomer Hatzair als Verband und das Geschichtsprojekt vorgestellt, sowie die Ergebnisse der Forschung präsentiert werden.
 
