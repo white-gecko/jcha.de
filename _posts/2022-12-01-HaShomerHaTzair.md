@@ -8,8 +8,15 @@ categories: einladung
 tag: archive
 ---
 
-**Julia Salomo**
+**Nitzan Menagem** und **Julia Salomo**
 
-„Hashomer Hatzair Deutschland“ ist ein internationaler, progressiver jüdischer Jugendverband, der vor 10 Jahren in Berlin wiedergegründet wurde. Seit 1931 war Hashomer Hatzair in verschiedenen Städten im Deutschen Reich aktiv, bis der Verband 1939 von den Nationalsozialisten zwangsaufgelöst wurde. In einem generationenübergreifenden Forschungsprojekt begaben sich die neue Generation gemeinsam mit freiwilligen Helfer:innen und Unterstützer:innen auf die Suche nach den unerzählten Geschichten und vergessenen Schicksalen der Mitglieder in den 1930er Jahren. In diesem Vortrag sollen daher Hashomer Hatzair als Verband und das Geschichtsprojekt vorgestellt, sowie die Ergebnisse der Forschung präsentiert werden.
+„Hashomer Hatzair Deutschland“ ist ein internationaler, progressiver jüdischer Jugendverband, der vor 10 Jahren in Berlin wiedergegründet wurde. Seit 1931 war Hashomer Hatzair in verschiedenen Städten im Deutschen Reich aktiv, bis der Verband 1939 von den Nationalsozialisten zwangsaufgelöst wurde. In einem generationenübergreifenden Forschungsprojekt begaben sich die neue Generation gemeinsam mit freiwilligen Helfer:innen und Unterstützer:innen auf die Suche nach den unerzählten Geschichten und vergessenen Schicksalen der Mitglieder in den 1930er Jahren. 
+Die Vorsitzende des Verbandes in Deutschland *Nitzan Menagem* und *Julia Salomo* werden gemeinsam *Hashomer Hatzair* als Verband und das Geschichtsprojekt vorstellen, sowie die Ergebnisse der Forschung präsentieren.
 
-*Die Veranstaltung wird auch via Zoom übertragen*
+Sie können dem Zoom-Meeting beitreten:
+
+[https://us06web.zoom.us/j/81688197101?pwd=TzNwQyswNlc5K2ZoWlZLT29QTGFpZz09](https://us06web.zoom.us/j/81688197101?pwd=TzNwQyswNlc5K2ZoWlZLT29QTGFpZz09)
+
+Meeting-ID: 816 8819 7101
+<br>
+Kenncode: 823992
