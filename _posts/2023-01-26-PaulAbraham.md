@@ -2,7 +2,7 @@
 layout:     einladung
 title:      "Der Operettenkönig Paul Abraham"
 subtitle:   "Ein bißchen Liebe für mich …"
-date:       2023-01-26 19:00:00+02:00
+date:       2023-01-26 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 ---
