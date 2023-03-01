@@ -1,6 +1,6 @@
 ---
 layout:     einladung
-title:      "Neue Vorsitzende der Arbeitsgemeinschaft"
+title:      "Israeltag"
 date:       2023-04-30 17:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung

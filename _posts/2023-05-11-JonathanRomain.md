@@ -1,7 +1,7 @@
 ---
 layout:     einladung
 title:      "Dignity of Life - Dignity of Dying"
-date:       2022-06-23 18:00:00+02:00
+date:       2023-05-11 18:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 tag: archive
