@@ -2,7 +2,7 @@
 layout:     einladung
 title:      "Von Lübeck in die Welt"
 subtitle:   "Wie der Rabbiner Salomon Carlebach den jüdischen orthodoxen Glauben prägte"
-date:       2023-04-19 18:00:00+02:00
+date:       2023-04-19 19:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 tag: archive
