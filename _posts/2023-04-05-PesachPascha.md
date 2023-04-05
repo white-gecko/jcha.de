@@ -1,8 +1,8 @@
 ---
 layout: einladung
 title:  "Pesach und Ostern"
-date_start:  2023-04-05 00:00:00+01:00
-date_ende:   2023-04-16 24:00:00+01:00
+date_start:  2023-04-05 00:00:00+02:00
+date_ende:   2023-04-16 24:00:00+02:00
 categories: einladung
 tag: archive nodate
 ---
