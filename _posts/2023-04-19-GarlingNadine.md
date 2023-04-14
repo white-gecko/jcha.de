@@ -5,8 +5,12 @@ subtitle:   "Wie der Rabbiner Salomon Carlebach den jüdischen orthodoxen Glaube
 date:       2023-04-19 19:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
-tag: archive
+tag: archive postponed
 ---
+
+**Die Veranstaltung wird verschoben!**
+
+Ein neuer Termin steht noch nicht fest.
 
 **Nadine Garling**
 (M. A.) Hamburg
