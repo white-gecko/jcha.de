@@ -17,7 +17,7 @@
     </span>
     {% endunless %}
     <span class="titel">
-        <h3>{% if tags contains "postponed" %}<span class="canceled">Verschoben!:</span> {% endif %}{% if tags contains "canceled" %}<span class="canceled">Entfällt!:</span> {% endif %}{{ einladung.title }}</h3>
+        <h3>{% if tags contains "postponed" %}<span class="canceled">Verschoben!</span> {% endif %}{% if tags contains "canceled" %}<span class="canceled">Entfällt!</span> {% endif %}{{ einladung.title }}</h3>
         {% if einladung.subtitle %}
         <span class="subtitle">{{ einladung.subtitle }}</span>
         {% endif %}
