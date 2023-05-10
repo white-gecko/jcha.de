@@ -1,0 +1,61 @@
+version: '3'
+
+vars:
+  WORKING_DIRECTORY: '{{.github.workspace | default .PWD}}'
+  BUNDLE_PATH: '.vendor'
+  ID_UID:
+    sh: id -u
+  ID_GID:
+    sh: id -g
+  TARGET: '{{.TARGET | default "_site"}}'
+
+tasks:
+
+  default:
+    desc: List the available tasks
+    cmds:
+      - task -l
+
+  build:
+    desc: Build the page from source
+    cmds:
+      - task: build:docker
+        vars:
+          LANGUAGE: de
+          TARGET: '{{.TARGET}}'
+
+  build:docker:
+    desc: Build the page from source using docker
+    vars:
+      JEKYLL_UID: '{{.JEKYLL_UID | default .ID_UID}}'
+      JEKYLL_GID: '{{.JEKYLL_GID | default .ID_GID}}'
+      JEKYLL_USER_ARG:
+        sh: '[ "$(docker info --format "{{`{{if .Host.Security.Rootless}}true{{end}}`}}")" = "true" ] || echo -u "{{.JEKYLL_UID}}:{{.JEKYLL_GID}}"'
+      JEKYLL_IMAGE: ghcr.io/aksw/jekyll-rdf:4.0.4
+    cmds:
+      - |
+        docker run --rm \
+        --workdir /github/workspace \
+        -v {{.WORKING_DIRECTORY}}:/github/workspace \
+        -e TZ=Europe/Berlin {{.JEKYLL_USER_ARG}} -e BUNDLE_PATH={{.BUNDLE_PATH}} \
+        {{.JEKYLL_IMAGE}} jekyll build -d {{.TARGET}}
+
+  upload:
+    desc: Update the changes to the server
+    cmds:
+      - |
+        echo "Update webpage …"
+        lftp -c "set ftp:list-options -a;
+        open ftp://{{.username}}:{{.password}}@{{.server}};
+        lcd _site
+        mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=4 "
+
+  serve:
+    desc: Serve the locally built site
+    cmds:
+      - python -m http.server --directory {{.TARGET}}
+
+  clean:
+    desc: Clean up temporary direcotries
+    cmds:
+      - rm -r .vendor .jekyll-cache .bundle
