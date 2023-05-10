@@ -1,7 +1,7 @@
 ---
 layout:     einladung
 title:      "Jüdische Privatgelehrte in Leipzig"
-date:       2023-06-14 19:00:00+01:00
+date:       2023-06-14 19:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2023-06-14-KatrinLoeffler.pdf"
