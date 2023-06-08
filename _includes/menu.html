@@ -2,13 +2,13 @@
     <div id="affixcontainer" class="span3 affix menucontainer" >
         <ul class="nav nav-list bs-docs-sidenav">
             <!--<li><a href="#presse"><i class="icon-chevron-right"></i>Pressemitteilung</a></li>-->
-            <li><a href="#einladung"><i class="icon-chevron-right"></i>Programm und Einladung</a></li>
-            <li><a href="#angebot"><i class="icon-chevron-right"></i>Unser st&auml;ndiges Angebot</a></li>
-            <li><a href="#beitraege"><i class="icon-chevron-right"></i>Beitr&auml;ge</a></li>
-            <li><a href="#kontakt"><i class="icon-phone"></i>Kontakt</a></li> <!-- icon-user, icon-envelope -->
-            <li><a href="#zusammen"><i class="icon-link"></i>Wir arbeiten zusammen mit</a></li> <!-- icon-globe -->
-            <li><a href="#verbunden"><i class="icon-link"></i>Wir sind verbunden mit</a></li>
+            <li><a href="{{ "/" | relative_url }}#einladung"><i class="icon-chevron-right"></i>Programm und Einladung</a></li>
+            <li><a href="{{ "/" | relative_url }}#angebot"><i class="icon-chevron-right"></i>Unser st&auml;ndiges Angebot</a></li>
+            <li><a href="{{ "/" | relative_url }}#beitraege"><i class="icon-chevron-right"></i>Beitr&auml;ge</a></li>
+            <li><a href="{{ "/" | relative_url }}#kontakt"><i class="icon-phone"></i>Kontakt</a></li> <!-- icon-user, icon-envelope -->
+            <li><a href="{{ "/" | relative_url }}#zusammen"><i class="icon-link"></i>Wir arbeiten zusammen mit</a></li> <!-- icon-globe -->
+            <li><a href="{{ "/" | relative_url }}#verbunden"><i class="icon-link"></i>Wir sind verbunden mit</a></li>
         </ul>
-        <img id="Logo" width="250px" alt="Logo der Jüdisch-Christlichen Arbeitsgemeinschaft" src="{{ "images/JCA_Logo.png" | prepend: site.baseurl }}"/>
+        <img id="Logo" width="250px" alt="Logo der Jüdisch-Christlichen Arbeitsgemeinschaft" src="{{ "images/JCA_Logo.png" | relative_url  }}"/>
     </div>
 </div>
