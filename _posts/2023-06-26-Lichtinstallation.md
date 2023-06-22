@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Eröffnung"
-date:   2023-06-26 18:00:00+01:00
+date:   2023-06-26 18:00:00+02:00
 place:  "Strohsackpassage, Ritterstraße 7, 04109 Leipzig"
 categories: einladung
 tag: archive
