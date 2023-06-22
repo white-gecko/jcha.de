@@ -17,11 +17,11 @@ Friedensgebet im Rahmen der jüdischen Woche
 
 #### 18 Uhr Auftakt Strohsackpassage
 
-### Montag 02.07.2023
+### Montag 03.07.2023
 
 #### 18 Uhr Rundgang Treffpunkt Ecke Brühl/Goethestraße
 
-### Dienstag 03.07.2023
+### Dienstag 04.07.2023
 
 #### 18 Uhr Fahrradtour Treffpunkt Ecke Brühl/Goethestraße
 
