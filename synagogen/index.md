@@ -85,7 +85,7 @@ Mitte des 13. Jh. waren dort große Salzvorkommen gefunden worden. Spätestens s
 Zwischen den beiden Weltkriegen war etwa ein Viertel der Bevölkerung Bochnias jüdisch (etwa zweieinhalb- von etwa zehntausend).
 
 Der Name der *Jassyer-Synagoge* weist auf die Herkunft ihrer Gründer aus Jassy (Iasi, Rumänien, 47°9'N, 27°35'O).
-Die Herschaft über die Stadt wechselte 
+Die Herschaft über die Stadt wechselte
 Die Stadt hatte einst 127 Synagogen.
 Um 1900 war mehr als die Hälfte der Stadtbevölkerung jüdisch (nach einer Angabe von 1910: 33 141 von 59 427).
 Am 29. Juni 1941 wurden über 13 000 von ihnen ermordet.
@@ -131,6 +131,4 @@ Gelegentlich wird unter der Adresse die *Tifereth-Jehuda-Synagoge* genannt.
 
 14. **Bethaus in einem Wohngebäude**,  Aurelienstraße 14, Gebäude abgerissen
 
-Der Flyer mit den Installationsorten
-file:///home/timotheus/Documents/BuecherScripteUA/JurkNinaK/Flyer%20Lichtprojekt%20Synagogen%20und%20Betstuben%20Leipzig.pdf
-0:-5:416:21
+<a class="pdf" href="{% relative_link /einladungen/FlyerLichtprojektSynagogenUndBetstubenLeipzig.pdf %}">Der Flyer mit den Installationsorten</a>
