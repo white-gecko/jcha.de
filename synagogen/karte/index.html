@@ -163,7 +163,7 @@ function pointToLayer(feature, latlng) {
 }
 
 async function logJSONData() {
-  const response = await fetch("/synagogen/synagogen_in_leipzig.geojson");
+  const response = await fetch("../synagogen_in_leipzig.geojson");
   const geojsonData = await response.json();
   L.geoJSON(geojsonData, {
     pointToLayer: pointToLayer,
