@@ -8,4 +8,4 @@ tag: pm nodate
 
 Lichtinstallation von Nina K. Jurk
 
-[http://jcha.de/synagogen/]({% relative_link synagogen/index.md %})
+[http://jcha.de/synagogen/]({{ "/synagogen/" | relativize_url }})
