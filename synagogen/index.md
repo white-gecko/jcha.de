@@ -10,7 +10,7 @@ Lichtinstallation von Nina K. Jurk
 
 ## Die Lichtobjekte verweisen auf nicht mehr vorhandene Synagogen
 
-[Eine Karte der Synagogen](karte.html).
+[Eine Karte der Synagogen](karte).
 
 Auch deren Liste ist nicht vollständig.
 Wir notieren hier weitere Informationen zu diesen Synagogen
