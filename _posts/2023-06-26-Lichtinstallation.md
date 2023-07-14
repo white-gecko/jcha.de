@@ -13,3 +13,5 @@ Bis Mitte Juli soll ein Kunstprojekt von Nina K. Jurk wieder leuchten:
 
 Zur Eröffnung treffen wir uns am Zugang zur Strohsackpassage von der Ritterstraße aus.
 Dabei sind u. a. die Künstlerin Nina K. Jurk, der Leipziger Gemeinderabbiner Zsolt Balla und Gäste im Rahmen des Besuchprogramms ehemaliger Leipziger Familien.
+
+*Die Installation soll im November erneut zu sehen sein.*

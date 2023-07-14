@@ -45,7 +45,7 @@ Der Wortbestandteil „Chaim“ erinnert zugleich an den Vornamen eines großzü
   <li><strong>Ohel-Jakob-Synagoge</strong>, Pfaffendorfer Straße 4, zerstört im 2. Weltkrieg
 
 <p>Der Name bedeutet „Zelt Jakobs“.
-Wer eine Synagoge betritt zitiert mitunter aus dem Vierten Buche Mose, Kapitel 24, Vers 5, „Wie gut sind deine Zelte Jakob!“</p>
+Wer eine Synagoge betritt, zitiert mitunter aus dem Vierten Buche Mose, Kapitel 24, Vers 5, „Wie gut sind deine Zelte Jakob!“</p>
 </li>
   <li><strong>Bethaus Bikur Cholim</strong>, Eisenbahnstraße 9, Gebäude erhalten
 
@@ -53,7 +53,7 @@ Wer eine Synagoge betritt zitiert mitunter aus dem Vierten Buche Mose, Kapitel 2
 </li>
   <li><strong>Bet-Jehuda-Synagoge</strong>, Färberstraße 11, Hofgebäude, Gebäude erhalten
 
-<p>Mit dem Namen „Haus Judas“ erinnert die Witwe von Julius/Juda Ariowitsch, die im Vorderhau wohnte, offenbar zugleich an ihrem verstorbenen Mann.</p>
+<p>Mit dem Namen „Haus Judas“ erinnert die Witwe von Julius/Juda Ariowitsch, die im Vorderhaus wohnte, offenbar zugleich an ihrem verstorbenen Mann.</p>
 
 <strong>Ahawas-Thora-Synagoge</strong>, Färberstraße 6, zerstört im 2. Weltkrieg
 
@@ -96,7 +96,7 @@ Am 29. Juni 1941 wurden über 13 000 von ihnen ermordet.</p>
 <p>Unter dieser Adresse kursieren auch die Bezeichnungen „Vierundzwanziger-Synagoge“ – offenbar nach der Hausnummer – und „Hindenburg-Synagoge“ – anscheinend eine patriotische Gesinnung ausdrückend.
 Wir sind gespannt darauf, was wir über das Verhältnis zu diesen Bezeichnungen noch erfahren werden.</p>
 
-<p>Mischnajos ist eine Pluralform von Mischna, dem ersten nachbiblischen rabbinischen Kodex aus dem zweiten Jahrhunderchr. Zeitrechnung. Das Wort ist eines von mehreren hebräischen Wörtern für Lehre. Mischna-Studium ist die Vorbereitung oder der Einstieg für Kinder und Jugendliche in das Talmud-Studium.</p>
+<p>Mischnajos ist eine Pluralform von Mischna, dem ersten nachbiblischen rabbinischen Kodex aus dem zweiten Jahrhundert chr. Zeitrechnung. Das Wort ist eines von mehreren hebräischen Wörtern für Lehre. Mischna-Studium ist die Vorbereitung oder der Einstieg für Kinder und Jugendliche in das Talmud-Studium.</p>
 </li>
   <li><strong>Kolomea Synagoge</strong>, Berliner Straße 4, zerstört im 2. Weltkrieg
 
@@ -116,8 +116,7 @@ Die Athmosphäre dieses Hauses hat Simson Jakob Kreutner in dem Kapitel „Der <
 </li>
   <li><strong>Merkin-Synagoge</strong>, Ritterstraße 7 (Strohsackpassage), Gebäude erhalten
 
-<p>Die Synagoge ist nach der Familie Merkin benannt, die sie entscheidend gefördert haben.
-Ruven Merkin kam 1900 nach Leipzig.</p>
+<p>Die Synagoge ist nach der Familie Merkin benannt, die sie entscheidend gefördert hat. Ruven Merkin kam um 1900 nach Leipzig.</p>
 </li>
   <li><strong>Lemberger Synagoge</strong>, Schützenstraße 7 (Hochhaus Wintergartenstraße), zerstört im 2. Weltkrieg
 
