@@ -4,7 +4,7 @@ title:  "Von Rosch Haschana/Neujahr bis Simchat Tora/Freude an der Tora"
 date_start:  2023-09-15 00:00:00+01:00
 date_ende:   2023-10-08 24:00:00+01:00
 categories: einladung
-tag: archive nodate
+tag: pm nodate
 ---
 
 Am Freitag, d. 15. September abends, **Rosch Haschana**, beginnt die jüdische Gemeinde das Schöpfungsjahr 5784.
