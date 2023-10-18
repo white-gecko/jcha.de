@@ -5,6 +5,7 @@ date:       2023-11-01 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 tag: archive
+attachment: "einladungen/2023-11-01-SvenTrautmann.pdf"
 ---
 
 **Dr. Sven Trautmann**
