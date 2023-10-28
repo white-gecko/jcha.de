@@ -6,11 +6,13 @@ layout: default
 
 Lichtinstallation von Nina K. Jurk
 
-*Die Installation soll im November erneut zu sehen sein.*
+*Das Kunstprojekt wurde erstmals 2002 errichtete und im Sommer 2023 erneuert.*
 
 ## Die Lichtobjekte verweisen auf nicht mehr vorhandene Synagogen
 
-[Eine Karte der Synagogen](karte).
+Sie sind an 14 Orten aufgestellten und erinnern in ihrer Ausführung an Schriftrollen. 160 Zentimeter hohe Lichtsäulen aus Acrylglas beherbergen, auf Pergament gedruckt, das Gedicht „Todesfuge“ von Paul Celan. Auf dem Sockel der Säulen informiert eine Tafel über den Namen und die Daten der ehemaligen Synagoge beziehungsweise Betstube. Bei Einbruch der Dämmerung beginnen die Säulen von innen heraus zu leuchten.
+
+[Eine Karte der Synagogen](karte)
 
 Auch deren Liste ist nicht vollständig.
 Wir notieren hier weitere Informationen zu diesen Synagogen
