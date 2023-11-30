@@ -3,7 +3,7 @@ layout:     einladung
 title:      "Einstige Leipziger Synagogen und Betstuben"
 date:       2023-10-26 17:00:00+02:00
 categories: einladung
-tag: pm nodate
+tag: pm nodate archive
 ---
 
 *Ein Kunstprojekt von Nina K. Jurk leuchtet wieder*
