@@ -18,3 +18,5 @@ Leipzig
 In manchen christlichen Bibeln gibt es die Makkabäerbücher. Die enthalten eine Erzählung, für die es ein jüdisches Fest gibt: Chanukka – die Erinnerung an die Wiedereinweihung des Jerusalemer Tempels: Nachdem der für einen hellenistischen Kult umgestaltet worden war, führte ein Aufstand unter Führung der Hasmonäer/Makkabäer zur Wiederherstellung des alten Kultes.
 <br>
 Wir schauen uns jüdische und christliche Interpretationen der Ereignisse an.
+
+Online Teilnahme: [https://us06web.zoom.us/j/84958387561?pwd=jhTxjkbKNc41Xf9I09PptHC9LI9KiD.1](https://us06web.zoom.us/j/84958387561?pwd=jhTxjkbKNc41Xf9I09PptHC9LI9KiD.1)
