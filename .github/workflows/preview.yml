@@ -4,6 +4,7 @@ name: Build Jekyll Page Preview
 on:
   push:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   build:
