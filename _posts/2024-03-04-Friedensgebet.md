@@ -1,7 +1,7 @@
 ---
 layout: einladung
 title:  "Friedensgebet zum Klang des Dialoges"
-date:   2024-02-04 17:00:00+01:00
+date:   2024-03-04 17:00:00+01:00
 place:  "Nikolaikirche zu Leipzig, Nikolaikirchhof 3, 04109 Leipzig"
 categories: einladung
 ---
