@@ -1,7 +1,7 @@
 ---
 layout:     einladung
 title:      "Reihe: BASISWISSEN JUDENTUM"
-date:       2024-05-15 18:00:00+01:00
+date:       2024-05-15 18:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 attachment: "einladungen/2024-05-15-Basis-Staat.pdf"
