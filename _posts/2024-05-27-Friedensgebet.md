@@ -7,4 +7,4 @@ categories: einladung
 ---
 
 Wie in jedem Jahr gestaltet der Arbeitskreis „Christen in der SPD“ im Umfeld des 23. Mai (1863 Gründungstag der Sozialdemokratie, 1949 Verabschiedung des Grundgesetzes) das Friedensgebet in der Nikolaikirche. In diesem Jahr wirkt bei dem Friedensgebet die *Jüdisch-Christliche Arbeitsgemeinschaft* mit aus Anlass des *Besuchs der Angehörigen ehemaliger jüdischer Bürger und Bürgerinnen Leipzigs*.
-Matthias Enke (MdEP) wird die Ansprache halten.
+Matthias Ecke (MdEP) wird die Ansprache halten.
