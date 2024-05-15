@@ -25,3 +25,5 @@ Und wie haben sich die Vorstellungen vom jüdischen Staat verändert?
 Wie haben sich diese und andere Bezeichnungen entwickelt? Woher kommen diese und andere Namen in der Geschichte des Landes?
 
 Die Veranstaltung wird auch via Zoom übertragen
+
+[https://us06web.zoom.us/j/87997372368?pwd=Kja9WdF3mj8o1isx5SIV4FLIRb0a8W.1](https://us06web.zoom.us/j/87997372368?pwd=Kja9WdF3mj8o1isx5SIV4FLIRb0a8W.1)
