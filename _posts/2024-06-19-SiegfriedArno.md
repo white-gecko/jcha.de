@@ -2,7 +2,7 @@
 layout:     einladung
 title:      "„Unerhört küßt die Malwine …“"
 subtitle:   "Siegfried Arno: Schauspieler, Kabarettist und populärer Schlagerinterpret"
-date:       2024-06-19 19:00:00+01:00
+date:       2024-06-19 19:00:00+02:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 ---
