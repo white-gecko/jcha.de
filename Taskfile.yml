@@ -40,15 +40,21 @@ tasks:
         -e TZ=Europe/Berlin {{.JEKYLL_USER_ARG}} -e BUNDLE_PATH={{.BUNDLE_PATH}} \
         {{.JEKYLL_IMAGE}} jekyll build -d {{.TARGET}}
 
-  upload:
+  upload:docker:
     desc: Update the changes to the server
+    aliases: [upload]
+    vars:
+      LFTP_IMAGE: docker.io/minidocks/lftp
     cmds:
       - |
         echo "Update webpage …"
-        lftp -c "set ftp:list-options -a;
+        docker run --rm --workdir /github/workspace \
+        -v {{.WORKING_DIRECTORY}}:/github/workspace \
+        {{.LFTP_IMAGE}} \
+        -c "set ftp:list-options -a;
         open ftp://{{.username}}:{{.password}}@{{.server}};
-        lcd _site
-        mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=4 "
+        lcd _site;
+        mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=4"
 
   serve:
     desc: Serve the locally built site
