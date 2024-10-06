@@ -6,7 +6,7 @@ categories: einladung
 tag: pm nodate
 ---
 
-Beim nächsten Neumond, in der Nacht vom 1. zum 2. Oktober beginnt das Schöpfungsjahr 5785 im jüdisichen Kalender. Rosch Ha-Schana heißt Jahresanfang. Es folgen zehn Umkehrtage, die mit dem Versöhnungstag, Jom Kippur, vom Abend des 11. bis Abend des 12. Oktober enden.
+Beim nächsten Neumond, in der Nacht vom 1. zum 2. Oktober beginnt das Schöpfungsjahr 5785 im jüdischen Kalender. Rosch Ha-Schana heißt Jahresanfang. Es folgen zehn Umkehrtage, die mit dem Versöhnungstag, Jom Kippur, vom Abend des 11. bis Abend des 12. Oktober enden.
 <br>
 Zur Monatsmitte, vom Abend des 16. Oktober an feiert die jüdische Gemeinde den Ernteabschluß in Laubhütten, Sukkot, sieben Tage lang. Das mündet in einen achten Abschlußtag, bei uns verlängert um einen neunten Tag, dem Tag der Tora-Freude.
 <br>
