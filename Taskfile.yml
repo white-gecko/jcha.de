@@ -48,12 +48,12 @@ tasks:
     cmds:
       - |
         echo "Update webpage …"
-        docker run --rm --workdir /github/workspace \
-        -v {{.WORKING_DIRECTORY}}:/github/workspace \
+        docker run --rm \
+        --workdir /github/workspace \
+        -v {{.WORKING_DIRECTORY}}/{{.TARGET}}:/github/workspace \
         {{.LFTP_IMAGE}} \
         -c "set ftp:list-options -a;
         open ftp://{{.username}}:{{.password}}@{{.server}};
-        lcd _site;
         mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=4"
 
   serve:
