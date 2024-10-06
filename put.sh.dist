@@ -5,12 +5,5 @@ password="password"
 username="username"
 server="server"
 
-# For lftp read http://lftp.yar.ru/lftp-man.html
-
-bundle exec jekyll build
-
-echo "Update webpage …"
-lftp -c "set ftp:list-options -a;
-open ftp://$username:$password@$server;
-lcd _site
-mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=2 "
+export password username server
+task build upload
