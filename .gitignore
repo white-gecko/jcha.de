@@ -3,7 +3,6 @@ put.sh
 .DS_Store
 *.swp
 Gemfile.lock
-Gemfile
 .jekyll-cache
 .bundle
 .vendor
