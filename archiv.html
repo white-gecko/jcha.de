@@ -19,11 +19,7 @@ title: Archiv
             {% else %}
               {{ einladung.date | localize: "%d.%m.%Y" }}:
             {% endif %}
-            {% if einladung.attachment %}
-              <span class="anhang"><a class="pdf" href="{% relative_link {{einladung.attachment}} %}">{{ einladung.title }}</a></span>
-            {% else %}
-              <a href="{% relative_link {{einladung.path}} %}">{{ einladung.title }}</a>
-            {% endif %}
+            <a href="{% relative_link {{einladung.path}} %}">{{ einladung.title }}</a> {% include attachment.html %}
         </li>
       {% endif %}
     {% endif %}
