@@ -3,7 +3,7 @@ layout: einladung
 title:  "Herbstfeiertage"
 date:  2024-10-11 00:00:00+02:00
 categories: einladung
-tag: pm nodate
+tag: pm nodate archive
 ---
 
 Beim nächsten Neumond, in der Nacht vom 1. zum 2. Oktober beginnt das Schöpfungsjahr 5785 im jüdischen Kalender. Rosch Ha-Schana heißt Jahresanfang. Es folgen zehn Umkehrtage, die mit dem Versöhnungstag, Jom Kippur, vom Abend des 11. bis Abend des 12. Oktober enden.
