@@ -1,7 +1,8 @@
 ---
 layout:     einladung
 title:      "Reihe: BASISWISSEN JUDENTUM"
-date:       2024-11-27 18:00:00+01:00
+date_start:       2024-11-27 18:00:00+01:00
+date_ende:       2024-11-27 19:00:00+01:00
 place:      "Ariowitsch-Haus, Hinrichsenstraße 14"
 categories: einladung
 tag: archive
