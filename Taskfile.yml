@@ -49,6 +49,7 @@ tasks:
       - |
         echo "Update webpage …"
         docker run --rm \
+        --tty \
         --workdir /github/workspace \
         -v {{.WORKING_DIRECTORY}}/{{.TARGET}}:/github/workspace:z \
         {{.LFTP_IMAGE}} \
