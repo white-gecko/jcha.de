@@ -1,6 +1,6 @@
 ---
 layout: einladung
-title:  "Friedensgebet zum Klang des Dialoges"
+title:  "Friedensgebet"
 date:   2025-01-27 17:00:00+01:00
 place:  "Nikolaikirche zu Leipzig, Nikolaikirchhof 3, 04109 Leipzig"
 categories: einladung
