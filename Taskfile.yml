@@ -35,8 +35,8 @@ tasks:
     cmds:
       - |
         docker run --rm \
-        --workdir /github/workspace \
-        -v {{.WORKING_DIRECTORY}}:/github/workspace:z \
+        --workdir /workspace \
+        -v {{.WORKING_DIRECTORY}}:/workspace:z \
         -e TZ=Europe/Berlin {{.JEKYLL_USER_ARG}} -e BUNDLE_PATH={{.BUNDLE_PATH}} \
         {{.JEKYLL_IMAGE}} jekyll build -d {{.TARGET}}
 
@@ -50,8 +50,8 @@ tasks:
         echo "Update webpage …"
         docker run --rm \
         --tty \
-        --workdir /github/workspace \
-        -v {{.WORKING_DIRECTORY}}/{{.TARGET}}:/github/workspace:z \
+        --workdir /workspace \
+        -v {{.WORKING_DIRECTORY}}/{{.TARGET}}:/workspace:z \
         {{.LFTP_IMAGE}} \
         -c "set ftp:list-options -a;
         open ftp://{{.username}}:{{.password}}@{{.server}};
