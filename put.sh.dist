@@ -1,9 +1,0 @@
-#!/bin/sh
-
-#password=$( zenity --password )
-password="password"
-username="username"
-server="server"
-
-export password username server
-task build upload

@@ -1,5 +1,7 @@
 version: '3'
 
+dotenv: ['custom.env', 'default.env']
+
 vars:
   WORKING_DIRECTORY: '{{.github.workspace | default .PWD}}'
   BUNDLE_PATH: '.vendor'
