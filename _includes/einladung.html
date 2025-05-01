@@ -26,6 +26,6 @@
     {{ einladung.content }}
     </span>
     <span class="ort">{{ einladung.place }}</span>
-    {% if tags contains "bookedout" %}<span class="canceled">ausgebucht, weitere Anmeldungen kommen auf die Warteliste</span> {% endif %}
+    {% if tags contains "bookedout" %}<span class="canceled">ausgebucht (ggf. kommen weitere Anmeldungen auf eine Warteliste)</span> {% endif %}
     {% include attachment.html %}
 </div>
