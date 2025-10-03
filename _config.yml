@@ -11,4 +11,4 @@ permalink: pretty
 future: true
 
 # Exclude files from being copied to _site
-exclude: [put.sh, Taskfile.yml]
+exclude: [put.sh, Taskfile.yml,"*.env"]
