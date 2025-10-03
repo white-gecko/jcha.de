@@ -45,19 +45,12 @@ tasks:
   upload:docker:
     desc: Update the changes to the server
     aliases: [upload]
-    vars:
-      LFTP_IMAGE: docker.io/minidocks/lftp
     cmds:
       - |
         echo "Update webpage …"
-        docker run --rm \
-        --tty \
-        --workdir /workspace \
-        -v {{.WORKING_DIRECTORY}}/{{.TARGET}}:/workspace:z \
-        {{.LFTP_IMAGE}} \
-        -c "set ftp:list-options -a;
-        open ftp://{{.username}}:{{.password}}@{{.server}};
-        mirror --reverse --delete --use-cache --verbose --allow-chown --allow-suid --no-umask --only-newer --parallel=4"
+        gio mount sftp://{{.remote_user}}@{{.remote_server}}
+        rsync -av --no-times {{.WORKING_DIRECTORY}}/{{.TARGET}}/ /run/user/{{.ID_UID}}/gvfs/sftp:host={{.remote_server}},user={{.remote_user}}{{.remote_path}}
+        gio mount --unmount sftp://{{.remote_user}}@{{.remote_server}}
 
   serve:
     desc: Serve the locally built site
