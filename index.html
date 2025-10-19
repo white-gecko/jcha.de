@@ -18,6 +18,21 @@ layout: default
   {% endif %}
 {% endfor %}
 
+{% assign title = false %}
+{% for einladung in site.posts reversed %}
+  {% capture nowunix %}{{ site.time | date: '%s'}}{% endcapture %}
+  {% assign tags = einladung.tag | split: " " %}
+  {% if tags contains "nachruf" %}
+    {% unless tags contains "archive" %}
+      {% unless title %}
+        {% assign title = true %}
+        <h2 id="pressemitteilung">Nachruf</h2>
+      {% endunless %}
+      {% include einladung.html %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
 <h2 id="einladung">Einladung</h2>
 
 {% for einladung in site.posts reversed %}
@@ -25,7 +40,7 @@ layout: default
 {% capture ende %}{{einladung.date_ende | date: '%s'}}{% endcapture %}
   {% if einladung.date >= site.time or ende >= nowunix %}
     {% assign tags = einladung.tag | split: " " %}
-    {% unless tags contains "pm" %}
+    {% unless tags contains "pm" or tags contains "nachruf" %}
       {% include einladung.html %}
     {% endunless %}
   {% endif %}
