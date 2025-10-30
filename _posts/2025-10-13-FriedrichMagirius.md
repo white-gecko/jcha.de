@@ -7,8 +7,6 @@ date_ende: 2025-11-30 18:00:00+02:00
 place:  "Trauerfeier am Donnerstag, d. 23. Oktober 2025, 11 Uhr in der Leipziger Nikolaikirche"
 categories: nachruf
 tag: nodate nachruf
-attachment:
-  - {file: "nachruf/2025-10-13-Trauerkarte-Friedrich-Magirius.pdf", title: "Trauerkarte"}
 ---
 
 geboren am 26. Juni 1930,
