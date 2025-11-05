@@ -49,7 +49,7 @@ tasks:
       - |
         echo "Update webpage …"
         gio mount sftp://{{.remote_user}}@{{.remote_server}}
-        rsync -av --no-times {{.WORKING_DIRECTORY}}/{{.TARGET}}/ /run/user/{{.ID_UID}}/gvfs/sftp:host={{.remote_server}},user={{.remote_user}}{{.remote_path}}
+        rsync -av --del --no-times {{.WORKING_DIRECTORY}}/{{.TARGET}}/ /run/user/{{.ID_UID}}/gvfs/sftp:host={{.remote_server}},user={{.remote_user}}{{.remote_path}}
         gio mount --unmount sftp://{{.remote_user}}@{{.remote_server}}
 
   serve:
