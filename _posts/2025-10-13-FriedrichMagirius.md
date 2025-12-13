@@ -6,7 +6,7 @@ date_start: 2025-10-13 18:00:00+02:00
 date_ende: 2025-11-30 18:00:00+02:00
 place:  "Trauerfeier am Donnerstag, d. 23. Oktober 2025, 11 Uhr in der Leipziger Nikolaikirche"
 categories: nachruf
-tag: nodate nachruf
+tag: nodate nachruf archive
 ---
 
 geboren am 26. Juni 1930,
