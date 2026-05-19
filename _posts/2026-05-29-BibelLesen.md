@@ -3,7 +3,7 @@ layout: einladung
 title:  Gemeinsam Bibel Lesen
 date:   2026-05-29 17:00:00+02:00
 date_start: 2026-05-29 17:00:00+02:00
-date_ende: 2026-06-30 13:00:00+02:00
+date_ende: 2026-05-31 13:00:00+02:00
 place:  "Evangelische Akademie Meißen"
 attachment: "einladungen/2025-06-27-BibelLesen.pdf"
 categories: einladung
