@@ -36,7 +36,7 @@ tasks:
       JEKYLL_IMAGE: ghcr.io/aksw/jekyll-rdf:4.2.4
     cmds:
       - |
-        docker run --rm \
+        podman run --rm \
         --workdir /workspace \
         -v {{.WORKING_DIRECTORY}}:/workspace:z \
         -e TZ=Europe/Berlin {{.JEKYLL_USER_ARG}} -e BUNDLE_PATH={{.BUNDLE_PATH}} \
