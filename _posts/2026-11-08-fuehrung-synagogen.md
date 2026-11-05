@@ -1,8 +1,7 @@
 ---
 layout:     einladung
 title:      "Führung: Ehemalige Synagogen und Betstuben in Leipzig"
-date_start: 2026-11-08 17:00:00+01:00
-date_ende:  2026-11-08 19:00:00+01:00
+date: 2026-11-08 17:00:00+01:00
 subtitle:   "entlang der Lichtsäulen von Nina K. Jurk"
 categories: einladung
 tag:        nacherinnerung

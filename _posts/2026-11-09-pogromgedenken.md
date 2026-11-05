@@ -1,8 +1,7 @@
 ---
 layout:     einladung
 title:      "Gedenken an die Pogromnacht 1938"
-date_start: 2026-11-09 16:00:00+01:00
-date_ende:  2026-11-09 21:00:00+01:00
+date: 2026-11-09 16:00:00+01:00
 categories: einladung
 tag:        gedenktag
 place:      "Mehrere Orte in Leipzig"
